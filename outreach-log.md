@@ -46,3 +46,19 @@ Leads drafted:
 10. James Salerno | Ringers Western | Touch 2 | BAB
 Inbox replies found: none
 Total drafted: 10
+
+## 2026-05-08 — Daily Run
+Leads drafted:
+1. Gregorio Hanimian | Luli Fama Swimwear | Touch 1 | QVC
+2. Ainsley Rose | Londre Bodywear | Touch 1 | QVC
+3. Justin Ferdinand | KENTWOOL | Touch 1 | QVC
+4. Vidur Adlakha | La Fuori | Touch 1 | PAS
+5. James Patten | Ry.com.au | Touch 1 | QVC
+6. Emma Crepeau | Jack Archer | Touch 1 | QVC
+7. Dale McCarthy | BONDI BORN | Touch 1 | QVC
+8. Sarah Adelson | LAPOINTE | Touch 1 | Mouse Trap
+9. Amanda M | Emerson and Friends | Touch 1 | QVC
+10. Teresa Fudenberg | Storm Creek | Touch 1 | QVC
+Inbox replies found: none
+Total drafted: 10
+Note: Touch 2 drafts for leads 1-10 (created 2026-05-07) are still in Gmail Drafts pending Anant's review and send.
