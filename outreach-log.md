@@ -77,3 +77,18 @@ Leads drafted:
 10. Zara Tisch | Terez | Touch 1 | QVC
 Inbox replies found: James Patten (Ry.com.au) — OOO auto-reply dated 2026-05-04, directing to Elle Baker for brand/supplier relationships
 Total drafted: 10
+
+## 2026-05-10 — Daily Run
+Leads drafted:
+1. Ivo Lamers | Merlette | Touch 1 | QVC
+2. Caroline Gilroy | COUPER | Touch 1 | QVC
+3. Ryan Wright | le PÈRE | Touch 1 | Mouse Trap
+4. Victoria Martinez | AVARA | Touch 1 | QVC
+5. Jen Kelly | Pehr | Touch 1 | QVC
+6. Nagi Osta | NAGI Jewelers | Touch 1 | Mouse Trap
+7. Elena Flanagan | Goose & Gander | Touch 1 | QVC
+8. Emily Kelly | Mentionables | Touch 1 | PAS
+9. Alain Desmeules | ewool | Touch 1 | QVC
+10. Eric Sellew | ZZZ's Collective | Touch 1 | Mouse Trap
+Inbox replies found: Bryan Crisfield (Crislu) — replied 2026-05-09 to "RE: jewelry content" — positive response ("Yes, thx to share"), needs Anant's follow-up. James Patten (Ry.com.au) — OOO auto-reply (previously logged).
+Total drafted: 10
