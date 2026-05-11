@@ -92,3 +92,18 @@ Leads drafted:
 10. Eric Sellew | ZZZ's Collective | Touch 1 | Mouse Trap
 Inbox replies found: Bryan Crisfield (Crislu) — replied 2026-05-09 to "RE: jewelry content" — positive response ("Yes, thx to share"), needs Anant's follow-up. James Patten (Ry.com.au) — OOO auto-reply (previously logged).
 Total drafted: 10
+
+## 2026-05-11 — Daily Run
+Leads drafted:
+1. Lindsey Carter | SET ACTIVE | Touch 1 | Mouse Trap
+2. Nyree Leckenby | My Mum Made It | Touch 1 | QVC
+3. Trent Brown | KILOGEAR | Touch 1 | PAS
+4. Vince Lebon | Rollie Nation | Touch 1 | QVC
+5. Scott Riley | Live Forever Golf | Touch 1 | QVC
+6. Marc Ostrofsky | Cufflinks.com | Touch 1 | QVC
+7. Tony Rey | Tote & Carry | Touch 1 | PAS
+8. Jason Richardson | Bad Birdie | Touch 1 | Mouse Trap
+9. Claire Murphy | KYHA Studios | Touch 1 | QVC
+10. Cindi Busenhart | MERGE4 | Touch 1 | QVC
+Inbox replies found: none new (Bryan Crisfield / Crislu and James Patten / Ry.com.au previously logged)
+Total drafted: 10
