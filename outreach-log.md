@@ -107,3 +107,18 @@ Leads drafted:
 10. Cindi Busenhart | MERGE4 | Touch 1 | QVC
 Inbox replies found: none new (Bryan Crisfield / Crislu and James Patten / Ry.com.au previously logged)
 Total drafted: 10
+
+## 2026-05-12 — Daily Run
+Leads drafted:
+1. Marcus Harvey | Portland Gear | Touch 1 | QVC
+2. Kimberly Kent | KENTWOOL | Touch 1 | QVC
+3. Max Stern | Dairy Boy | Touch 1 | QVC
+4. Reem Acra | Reem Acra | Touch 1 | Mouse Trap
+5. JD Dorminey | Wallflower Merch | Touch 1 | PAS
+6. Steve Mitzel | Manhead | Touch 1 | Mouse Trap
+7. Alexandra Goldberg | Aurate New York | Touch 1 | Mouse Trap
+8. Jocelyn Thornton | MISSION | Touch 1 | QVC
+9. Julie Mathers | Snuggle Hunny | Touch 1 | QVC
+10. Thierry Colin | Gabriela Hearst | Touch 1 | Mouse Trap
+Inbox replies found: none new (Bryan Crisfield / Crislu and James Patten / Ry.com.au previously logged)
+Total drafted: 10
