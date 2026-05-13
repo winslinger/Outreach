@@ -122,3 +122,18 @@ Leads drafted:
 10. Thierry Colin | Gabriela Hearst | Touch 1 | Mouse Trap
 Inbox replies found: none new (Bryan Crisfield / Crislu and James Patten / Ry.com.au previously logged)
 Total drafted: 10
+
+## 2026-05-13 — Daily Run
+Leads drafted:
+1. Igor Lebovic | Honeylove | Touch 1 | Mouse Trap
+2. Jannik Olander | NIALAYA | Touch 1 | Mouse Trap
+3. Brianna Cannon | Brianna Cannon | Touch 1 | QVC
+4. Cassie Ye | Stelle | Touch 1 | QVC
+5. Max Johnson | Awe Inspired | Touch 1 | QVC
+6. Christoph Galler | Urban Classics | Touch 1 | PAS
+7. Sali Christeson | Argent | Touch 1 | QVC
+8. Ridwane Ettoubi | Presentedby | Touch 1 | Mouse Trap
+9. Katie Kime | Katie Kime | Touch 1 | Mouse Trap
+10. Sean Scott | COMUNITYmade | Touch 1 | QVC
+Inbox replies found: none new (Bryan Crisfield / Crislu reply from 2026-05-09 still unread/pending Anant follow-up; James Patten / Ry.com.au OOO previously logged)
+Total drafted: 10
