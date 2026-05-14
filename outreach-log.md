@@ -137,3 +137,19 @@ Leads drafted:
 10. Sean Scott | COMUNITYmade | Touch 1 | QVC
 Inbox replies found: none new (Bryan Crisfield / Crislu reply from 2026-05-09 still unread/pending Anant follow-up; James Patten / Ry.com.au OOO previously logged)
 Total drafted: 10
+
+## 2026-05-14 — Daily Run
+Leads drafted:
+1. Elissa Bromer | Solid & Striped | Touch 1 | Mouse Trap
+2. Taylor Simmons | Coco Shop | Touch 1 | Mouse Trap
+3. Dee Fabbricatore | For Now | Touch 1 | QVC
+4. Jesse Burnett | TKEES | Touch 1 | Mouse Trap
+5. Patricia Chinander | Love From USA Group | Touch 1 | QVC
+6. Alexa Suter | HUHA | Touch 1 | PAS
+7. Bibhu Mohapatra | Bibhu Mohapatra | Touch 1 | Mouse Trap
+8. Aviv Brawer-Cohen | Nati Boutique | Touch 1 | QVC
+9. Nathan Connolly | INVO Aesthetics | Touch 1 | QVC
+10. Shannon Brown | Entity Brands | Touch 1 | QVC
+Inbox replies found: Bryan Crisfield (Crislu) — "Yes, thx to share" reply from 2026-05-09, still pending Anant follow-up (first logged 2026-05-10). James Patten (Ry.com.au) — OOO auto-reply 2026-05-04 (previously logged). No new replies.
+Total drafted: 10
+Note: Leads 1-10 (Touch 2 drafts created 2026-05-07) still show sent_1 in CSV — Touch 2 not yet sent. Skipped re-drafting to avoid Gmail duplicates. Leads 11-70 Touch 1 drafts also pending send per CSV.
