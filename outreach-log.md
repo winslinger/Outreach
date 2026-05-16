@@ -168,3 +168,18 @@ Leads drafted:
 10. Andrew Anabi | Pool House New York | Touch 1 | Mouse Trap
 Inbox replies found: Bryan Crisfield (Crislu) — "Yes, thx to share" from 2026-05-09, still UNREAD pending Anant follow-up (first logged 2026-05-10). James Patten (Ry.com.au) — OOO auto-reply 2026-05-04 (previously logged). No new replies.
 Total drafted: 10
+
+## 2026-05-16 — Daily Run
+Leads drafted:
+1. Aysha Saeed | AYSHA NY | Touch 1 | QVC
+2. DJ Gunter | Fahlo | Touch 1 | QVC
+3. Alexis Nido-Russo | Local Eclectic | Touch 1 | QVC
+4. Tina Gershoff | Scarlett Gasque | Touch 1 | Mouse Trap
+5. Hunter Harlow | Sendero Provisions | Touch 1 | PAS
+6. Bryan Demaranville | Melinda Maria | Touch 1 | QVC
+7. Michael Toccin | TOCCIN | Touch 1 | Mouse Trap
+8. Corey Shapiro | Vintage Frames Company | Touch 1 | Mouse Trap
+9. Liam Yori | YORI SPORT | Touch 1 | Mouse Trap
+10. Max Medroso | Sky and Sol | Touch 1 | QVC
+Inbox replies found: Bryan Crisfield (Crislu) — "Yes, thx to share" from 2026-05-09, still UNREAD pending Anant follow-up (first logged 2026-05-10). James Patten (Ry.com.au) — OOO auto-reply 2026-05-04 (previously logged). No new replies.
+Total drafted: 10
