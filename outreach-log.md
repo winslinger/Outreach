@@ -183,3 +183,18 @@ Leads drafted:
 10. Max Medroso | Sky and Sol | Touch 1 | QVC
 Inbox replies found: Bryan Crisfield (Crislu) — "Yes, thx to share" from 2026-05-09, still UNREAD pending Anant follow-up (first logged 2026-05-10). James Patten (Ry.com.au) — OOO auto-reply 2026-05-04 (previously logged). No new replies.
 Total drafted: 10
+
+## 2026-05-17 — Daily Run
+Leads drafted:
+1. Gregg Renfrew | Counter | Touch 1 | Mouse Trap
+2. Christina Hollingsworth | KIVARI | Touch 1 | QVC
+3. Neil Dombrowsky | RONNY KOBO | Touch 1 | QVC
+4. Malka Goldfein | Brie | Touch 1 | QVC
+5. Jason Janaros | True Victory | Touch 1 | PAS
+6. Bess Clarke | Nantucket Looms | Touch 1 | QVC
+7. Lindsey Davidson | LENNY | Touch 1 | QVC
+8. Emma Knudsen | Londre Bodywear | Touch 1 | QVC
+9. Peter Meksian | MICHAEL M | Touch 1 | Mouse Trap
+10. Tinsley Paul | HerStory | Touch 1 | QVC
+Inbox replies found: Bryan Crisfield (Crislu) — "Yes, thx to share" from 2026-05-09, still UNREAD pending Anant follow-up (first logged 2026-05-10). No new replies.
+Total drafted: 10
