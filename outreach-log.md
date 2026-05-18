@@ -198,3 +198,18 @@ Leads drafted:
 10. Tinsley Paul | HerStory | Touch 1 | QVC
 Inbox replies found: Bryan Crisfield (Crislu) — "Yes, thx to share" from 2026-05-09, still UNREAD pending Anant follow-up (first logged 2026-05-10). No new replies.
 Total drafted: 10
+
+## 2026-05-18 — Daily Run
+Leads drafted:
+1. Justin Kittredge | ISlide | Touch 1 | Mouse Trap
+2. PJ Labib | BeWicked | Touch 1 | PAS
+3. Burak Ovunc | Mavi North America | Touch 1 | Mouse Trap
+4. Jessica Jesse | BuDhaGirl | Touch 1 | QVC
+5. Natalie Culina | Akubra | Touch 1 | Mouse Trap
+6. Ariana Ferwerda | Halfdays | Touch 1 | QVC
+7. Meg Bedford | LOOPS | Touch 1 | Mouse Trap
+8. Emilie Toups | Toups and Co Organics | Touch 1 | QVC
+9. Jet Berelson | VampireFreaks | Touch 1 | Mouse Trap
+10. Benjamin Bragard | Everyday Uniforms | Touch 1 | QVC
+Inbox replies found: Bryan Crisfield (Crislu) — "Yes, thx to share" from 2026-05-09, still UNREAD pending Anant follow-up (first logged 2026-05-10). No new replies from any other leads.
+Total drafted: 10
