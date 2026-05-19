@@ -213,3 +213,19 @@ Leads drafted:
 10. Benjamin Bragard | Everyday Uniforms | Touch 1 | QVC
 Inbox replies found: Bryan Crisfield (Crislu) — "Yes, thx to share" from 2026-05-09, still UNREAD pending Anant follow-up (first logged 2026-05-10). No new replies from any other leads.
 Total drafted: 10
+
+## 2026-05-19 — Daily Run
+Leads drafted:
+1. Nathan Pearce | Pearce Bespoke Franchising | Touch 1 | Mouse Trap
+2. Lasha Aponso | AVARA | Touch 1 | Mouse Trap
+3. Ginny Seymour | ALIGNE | Touch 1 | Mouse Trap
+4. Leonie Brantberg | Jessica McCormack | Touch 1 | Mouse Trap
+5. Katie Pratt | ELLIATT | Touch 1 | Mouse Trap
+6. Shan Reddy | Prabal Gurung | Touch 1 | Mouse Trap
+7. Travis Chock | Baseballism | Touch 1 | Mouse Trap
+8. Vanessa Labarca | Chic Soul | Touch 1 | QVC
+9. Melanie Travis | Richer Poorer | Touch 1 | Mouse Trap
+10. Jeannine Christofilis | The Refind | Touch 1 | Mouse Trap
+Inbox replies found: Bryan Crisfield (Crislu) — "Yes, thx to share" from 2026-05-09, still UNREAD pending Anant follow-up (first logged 2026-05-10). James Patten (Ry.com.au) — OOO auto-reply 2026-05-04 (previously logged). No new replies.
+Total drafted: 10
+Note: Skipped ID 130 (Steve Symonds / Symonds Flags & Poles — flagpole services, not a D2C fashion brand). Replaced with ID 131 (Jeannine Christofilis / The Refind). Leads 1-10 Touch 2 drafts (created 2026-05-07) still pending send per CSV — skipped re-draft to avoid Gmail duplicates.
