@@ -229,3 +229,18 @@ Leads drafted:
 Inbox replies found: Bryan Crisfield (Crislu) — "Yes, thx to share" from 2026-05-09, still UNREAD pending Anant follow-up (first logged 2026-05-10). James Patten (Ry.com.au) — OOO auto-reply 2026-05-04 (previously logged). No new replies.
 Total drafted: 10
 Note: Skipped ID 130 (Steve Symonds / Symonds Flags & Poles — flagpole services, not a D2C fashion brand). Replaced with ID 131 (Jeannine Christofilis / The Refind). Leads 1-10 Touch 2 drafts (created 2026-05-07) still pending send per CSV — skipped re-draft to avoid Gmail duplicates.
+
+## 2026-05-20 — Daily Run
+Leads drafted:
+1. Jazzi McGilbert | Reparations Club | Touch 1 | QVC
+2. Sasha Martin | Cara Cara New York | Touch 1 | Mouse Trap
+3. Steven Richman | Tribal | Touch 1 | Mouse Trap
+4. Mayer Kamkhatchi | Adina Eden | Touch 1 | Mouse Trap
+5. Henri Levy | DNAM Brands | Touch 1 | QVC
+6. Johanna Zlenko | The Closet Trading Company | Touch 1 | QVC
+7. Ariane Goldman | HATCH Studios | Touch 1 | Mouse Trap
+8. Andy Bell | Ashworth Golf | Touch 1 | Mouse Trap
+9. Pawan Khosla | TUDORKNIGHT | Touch 1 | QVC
+10. Whitney Bansin | The Wild Collective | Touch 1 | Mouse Trap
+Inbox replies found: Bryan Crisfield (Crislu) — "Yes, thx to share" from 2026-05-09, still UNREAD pending Anant follow-up (first logged 2026-05-10). No new replies from any other leads.
+Total drafted: 10
