@@ -244,3 +244,18 @@ Leads drafted:
 10. Whitney Bansin | The Wild Collective | Touch 1 | Mouse Trap
 Inbox replies found: Bryan Crisfield (Crislu) — "Yes, thx to share" from 2026-05-09, still UNREAD pending Anant follow-up (first logged 2026-05-10). No new replies from any other leads.
 Total drafted: 10
+
+## 2026-05-22 — Daily Run
+Leads drafted:
+1. Dan Wang | Campus Tees | Touch 1 | Mouse Trap
+2. Hiromi Yu | MARAIS | Touch 1 | Mouse Trap
+3. Jacob Hurwitz | American Trench | Touch 1 | QVC
+4. Adelle Renaud | CAPOSHIE | Touch 1 | QVC
+5. Hiral Zalavadia | Stately | Touch 1 | PAS
+6. Steve Philpott | Bond-Eye Australia | Touch 1 | Mouse Trap
+7. Jingwen Wang | DAWANG | Touch 1 | QVC
+8. Joe Zhou | Tapstitch | Touch 1 | QVC
+9. Marcelle Bucher | Monday Swimwear | Touch 1 | QVC
+10. Dacey Ix | Rumored | Touch 1 | Mouse Trap
+Inbox replies found: Bryan Crisfield (Crislu) — "Yes, thx to share" from 2026-05-09, still UNREAD pending Anant follow-up (first logged 2026-05-10). James Patten (Ry.com.au) — OOO auto-reply 2026-05-04 (previously logged). No new replies from any other leads.
+Total drafted: 10
