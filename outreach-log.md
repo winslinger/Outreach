@@ -259,3 +259,18 @@ Leads drafted:
 10. Dacey Ix | Rumored | Touch 1 | Mouse Trap
 Inbox replies found: Bryan Crisfield (Crislu) — "Yes, thx to share" from 2026-05-09, still UNREAD pending Anant follow-up (first logged 2026-05-10). James Patten (Ry.com.au) — OOO auto-reply 2026-05-04 (previously logged). No new replies from any other leads.
 Total drafted: 10
+
+## 2026-05-23 — Daily Run
+Leads drafted:
+1. Milan Harris | Milano Di Rouge | Touch 1 | Mouse Trap
+2. Jodi Levy | Destira | Touch 1 | Mouse Trap
+3. Nidhi Kapur | Maiden Home | Touch 1 | QVC
+4. Craig Schweighoffer | York St Brands | Touch 1 | Mouse Trap
+5. John Auerbach | JOOPITER | Touch 1 | Mouse Trap
+6. Rachel Gannon | offe market | Touch 1 | QVC
+7. Daniel Erdman | Other Golf | Touch 1 | Mouse Trap
+8. Wade Anderson | SILK LAUNDRY | Touch 1 | Mouse Trap
+9. Quincy Moore | New York or Nowhere | Touch 1 | QVC
+10. Karine Dubner | Brochu Walker | Touch 1 | Mouse Trap
+Inbox replies found: Bryan Crisfield (Crislu) — "Yes, thx to share" from 2026-05-09, still UNREAD pending Anant follow-up (first logged 2026-05-10). James Patten (Ry.com.au) — OOO auto-reply 2026-05-04 (previously logged). No new replies from any other leads.
+Total drafted: 10
