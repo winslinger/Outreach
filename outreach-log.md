@@ -289,3 +289,19 @@ Leads drafted:
 10. Pedram Labib | BeWicked | Touch 1 | Mouse Trap
 Inbox replies found: Bryan Crisfield (Crislu) — "Yes, thx to share" from 2026-05-09, still UNREAD pending Anant follow-up (first logged 2026-05-10). James Patten (Ry.com.au) — OOO auto-reply 2026-05-04 (previously logged). No new replies from any other leads.
 Total drafted: 10
+
+## 2026-05-25 — Daily Run
+Leads drafted:
+1. Craig Baker | Duck Camp | Touch 1 | PAS
+2. Lawrence Lees | Outcast | Touch 1 | Mouse Trap
+3. Ingrid Carney | Ingrid & Isabel | Touch 1 | QVC
+4. Jacob Johnson | Calyan Wax | Touch 1 | QVC
+5. Marc Setton | Hang Ten North America | Touch 1 | Mouse Trap
+6. Davide Cerrato | Bremont Watch Company | Touch 1 | Mouse Trap
+7. Adam Broin | Cufflinks.com | Touch 1 | Mouse Trap
+8. Sandeep Verma | Little Sleepies | Touch 1 | QVC
+9. Linda Whitehead | Leays | Touch 1 | Mouse Trap
+10. Jeff Cannon | Yoga Democracy Activewear | Touch 1 | QVC
+Inbox replies found: Bryan Crisfield (Crislu) — "Yes, thx to share" from 2026-05-09, still UNREAD pending Anant follow-up (first logged 2026-05-10). James Patten (Ry.com.au) — OOO auto-reply 2026-05-04 (previously logged). No new replies from any other leads.
+Total drafted: 10
+Note: Skipped ID 174 (Chantelle James / JIVARO Recruitment — staffing firm, not a D2C brand). Replaced with ID 182 (Jeff Cannon / Yoga Democracy Activewear).
