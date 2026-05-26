@@ -305,3 +305,19 @@ Leads drafted:
 Inbox replies found: Bryan Crisfield (Crislu) — "Yes, thx to share" from 2026-05-09, still UNREAD pending Anant follow-up (first logged 2026-05-10). James Patten (Ry.com.au) — OOO auto-reply 2026-05-04 (previously logged). No new replies from any other leads.
 Total drafted: 10
 Note: Skipped ID 174 (Chantelle James / JIVARO Recruitment — staffing firm, not a D2C brand). Replaced with ID 182 (Jeff Cannon / Yoga Democracy Activewear).
+
+## 2026-05-26 — Daily Run
+Leads drafted:
+1. Chris Buchanan | ALEMAIS | Touch 1 | Mouse Trap
+2. Joni Odum | Firstline Brands | Touch 1 | QVC
+3. Chris Cornell | Manhead | Touch 1 | Mouse Trap
+4. Arnaud Husser | French Beauty Co | Touch 1 | QVC
+5. Britteny Bellinger | My Sister's Cottage | Touch 1 | QVC
+6. Kj Pimentel | Portland Gear | Touch 1 | QVC
+7. Bear Handlon | Born Primitive | Touch 1 | PAS
+8. Marcus Hall | Marc Nelson Denim | Touch 1 | Mouse Trap
+9. Lauren Warkentine | William & Lauren Custom Clothier | Touch 1 | QVC
+10. Motonari Abe | Airweave | Touch 1 | Mouse Trap
+Inbox replies found: Bryan Crisfield (Crislu) — "Yes, thx to share" from 2026-05-09, still UNREAD pending Anant follow-up (first logged 2026-05-10). James Patten (Ry.com.au) — OOO auto-reply 2026-05-04 (previously logged). No new replies from any other leads.
+Total drafted: 10
+Note: Skipped ID 187 (Charlotte Finlay-Notman / The FNA Group — retail consulting firm, not a D2C product brand).
