@@ -321,3 +321,19 @@ Leads drafted:
 Inbox replies found: Bryan Crisfield (Crislu) — "Yes, thx to share" from 2026-05-09, still UNREAD pending Anant follow-up (first logged 2026-05-10). James Patten (Ry.com.au) — OOO auto-reply 2026-05-04 (previously logged). No new replies from any other leads.
 Total drafted: 10
 Note: Skipped ID 187 (Charlotte Finlay-Notman / The FNA Group — retail consulting firm, not a D2C product brand).
+
+## 2026-05-27 — Daily Run
+Leads drafted:
+1. Robin Berzin | Parsley Health | Touch 1 | Mouse Trap
+2. Leyla Sertel | OptimallyMe | Touch 1 | Mouse Trap
+3. Todd Walker | Underwater Audio | Touch 1 | QVC
+4. Tony Steffert | SONA | Touch 1 | PAS
+5. Frank Tkachenko | Thursday Boot Company | Touch 1 | PAS
+6. Esther Gokhale | Gokhale Method | Touch 1 | Mouse Trap
+7. Jordan Detar | Eight Sleep | Touch 1 | QVC
+8. Kevin Schwartz | Pet Life Unlimited | Touch 1 | QVC
+9. Kyle Hoff | Floyd | Touch 1 | QVC
+10. Brian Mulcahey | Ozlo | Touch 1 | QVC
+Inbox replies found: Bryan Crisfield (Crislu) — "Yes, thx to share" from 2026-05-09, still UNREAD pending Anant follow-up (first logged 2026-05-10). No new replies from any other leads.
+Total drafted: 10
+Note: Skipped ID 199 (Mr Fothergill's Seeds — seeds company, not D2C fashion/gadget), ID 200 (Made By Dentists — dental kids care, not fit), ID 204 (Healthy Spot — pet grooming services), ID 205 (Little Spoon — food brand), ID 207 (Elizabeth Shevelev / Maiden Home — duplicate email of ID 88).
