@@ -337,3 +337,19 @@ Leads drafted:
 Inbox replies found: Bryan Crisfield (Crislu) — "Yes, thx to share" from 2026-05-09, still UNREAD pending Anant follow-up (first logged 2026-05-10). No new replies from any other leads.
 Total drafted: 10
 Note: Skipped ID 199 (Mr Fothergill's Seeds — seeds company, not D2C fashion/gadget), ID 200 (Made By Dentists — dental kids care, not fit), ID 204 (Healthy Spot — pet grooming services), ID 205 (Little Spoon — food brand), ID 207 (Elizabeth Shevelev / Maiden Home — duplicate email of ID 88).
+
+## 2026-05-28 — Daily Run
+Leads drafted:
+1. Lauren Nava | Renovation Brands | Touch 1 | QVC
+2. Malaya Stewart | Eight Sleep | Touch 1 | QVC
+3. Kevin Cheng | GODIRECTINC.COM | Touch 1 | Mouse Trap
+4. Salman Saleem | Aykah | Touch 1 | Mouse Trap
+5. Jacqueline Jones | Nostalgia Products Group | Touch 1 | QVC
+6. Darius Dinshaw | Align Custom Fit | Touch 1 | Mouse Trap
+7. Valerie Mackey | Owlet Baby Care | Touch 1 | PAS
+8. Maggie Dimmick | Garage Grown Gear | Touch 1 | QVC
+9. Steve Reid | Simba Sleep | Touch 1 | Mouse Trap
+10. Ben Smith | Hiplok | Touch 1 | Mouse Trap
+Inbox replies found: Bryan Crisfield (Crislu) — "Yes, thx to share" from 2026-05-09, still UNREAD pending Anant follow-up (first logged 2026-05-10). James Patten (Ry.com.au) — OOO auto-reply 2026-05-04 (previously logged). No new replies from any other leads.
+Total drafted: 10
+Note: Skipped ID 215 (Jenna Anderson / Kihealth — health diagnostics testing, not a D2C product brand for video ads). IDs 208 and 209 (Matchbox, Dormeo) remain unaddressed from prior session — flagged for Anant review.
