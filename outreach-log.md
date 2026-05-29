@@ -353,3 +353,19 @@ Leads drafted:
 Inbox replies found: Bryan Crisfield (Crislu) — "Yes, thx to share" from 2026-05-09, still UNREAD pending Anant follow-up (first logged 2026-05-10). James Patten (Ry.com.au) — OOO auto-reply 2026-05-04 (previously logged). No new replies from any other leads.
 Total drafted: 10
 Note: Skipped ID 215 (Jenna Anderson / Kihealth — health diagnostics testing, not a D2C product brand for video ads). IDs 208 and 209 (Matchbox, Dormeo) remain unaddressed from prior session — flagged for Anant review.
+
+## 2026-05-29 — Daily Run
+Leads drafted:
+1. Andy Wang | Vessi | Touch 1 | Mouse Trap
+2. Alexandra Zatarain | Eight Sleep | Touch 1 | Mouse Trap
+3. Abhinav Agarwal | CROSSBEATS | Touch 1 | PAS
+4. Jonathan Bernhardt | Hedley & Bennett | Touch 1 | Mouse Trap
+5. Donna Chan | Puffy | Touch 1 | Mouse Trap
+6. Fiona Grindlay-Kuzian | Sunday Citizen | Touch 1 | QVC
+7. Jake Miller | Fellow | Touch 1 | Mouse Trap
+8. Tam Vu | Earable Neuroscience (FRENZ) | Touch 1 | PAS
+9. Lindsay Muscato | TELETIES | Touch 1 | Mouse Trap
+10. Stefan Fluit | FLOWBIO | Touch 1 | Mouse Trap
+Inbox replies found: Bryan Crisfield (bryan@crislu.com) — "Yes, thx to share" from 2026-05-09, still UNREAD pending Anant follow-up (first logged 2026-05-10). James Patten (james@absoluteskin.com.au) — OOO auto-reply 2026-05-04 (previously logged). No new replies from any other leads.
+Total drafted: 10
+Note: Skipped IDs 222-230 (mid-level marketers, pet food, non-D2C services), ID 233 (Marketing Manager), ID 237 (Digital Marketing Manager), IDs 238-239 (AI fitness app / healthcare service). IDs 208 and 209 (Matchbox/Dormeo) remain flagged for Anant review.
