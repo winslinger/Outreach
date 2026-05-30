@@ -369,3 +369,19 @@ Leads drafted:
 Inbox replies found: Bryan Crisfield (bryan@crislu.com) — "Yes, thx to share" from 2026-05-09, still UNREAD pending Anant follow-up (first logged 2026-05-10). James Patten (james@absoluteskin.com.au) — OOO auto-reply 2026-05-04 (previously logged). No new replies from any other leads.
 Total drafted: 10
 Note: Skipped IDs 222-230 (mid-level marketers, pet food, non-D2C services), ID 233 (Marketing Manager), ID 237 (Digital Marketing Manager), IDs 238-239 (AI fitness app / healthcare service). IDs 208 and 209 (Matchbox/Dormeo) remain flagged for Anant review.
+
+## 2026-05-30 — Daily Run
+Leads drafted:
+1. Douglas Low | Incu | Touch 1 | Mouse Trap
+2. Sam Colclough | Ecoy | Touch 1 | QVC
+3. Jess Jacobs | Coterie | Touch 1 | Mouse Trap
+4. Maurice Voce | Skin Authority | Touch 1 | QVC
+5. Gihan Amarasiriwardena | Ministry of Supply | Touch 1 | QVC
+6. Tadas Kunickas | TAVO Sleep | Touch 1 | PAS
+7. Eric Osman | Mockingbird | Touch 1 | QVC
+8. Andrei Najjar | Cymbiotika | Touch 1 | QVC
+9. Justin Kowbel | Borough Kitchen | Touch 1 | QVC
+10. James Gold | Skinnydip London | Touch 1 | Mouse Trap
+Inbox replies found: Bryan Crisfield (bryan@crislu.com / Crislu) — "Yes, thx to share" reply from 2026-05-09, still UNREAD pending Anant follow-up (first logged 2026-05-10). James Patten (james@absoluteskin.com.au / Ry.com.au) — OOO auto-reply 2026-05-04 (previously logged). No new replies from any other leads.
+Total drafted: 10
+Note: Skipped IDs 250 (Geviti — telehealth services, not D2C product), 251 (Sabina Blankenberg — mid-level), 254 (Dentulu — teledentistry service), 256-257 (mid-level managers), 259 (Rugiet — telemedicine), 263 (Blanka — B2B private label platform), 264-267 (mid-level marketers), 268-270 (non-D2C / mid-level). Bryan Crisfield reply from 2026-05-09 has now been unread for 21 days — flagged again for Anant's urgent attention.
