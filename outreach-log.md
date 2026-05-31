@@ -385,3 +385,19 @@ Leads drafted:
 Inbox replies found: Bryan Crisfield (bryan@crislu.com / Crislu) — "Yes, thx to share" reply from 2026-05-09, still UNREAD pending Anant follow-up (first logged 2026-05-10). James Patten (james@absoluteskin.com.au / Ry.com.au) — OOO auto-reply 2026-05-04 (previously logged). No new replies from any other leads.
 Total drafted: 10
 Note: Skipped IDs 250 (Geviti — telehealth services, not D2C product), 251 (Sabina Blankenberg — mid-level), 254 (Dentulu — teledentistry service), 256-257 (mid-level managers), 259 (Rugiet — telemedicine), 263 (Blanka — B2B private label platform), 264-267 (mid-level marketers), 268-270 (non-D2C / mid-level). Bryan Crisfield reply from 2026-05-09 has now been unread for 21 days — flagged again for Anant's urgent attention.
+
+## 2026-05-31 — Daily Run
+Leads drafted:
+1. Theo Prins | KitchenSupply | Touch 1 | QVC
+2. Ying Gong | TickTalk Tech | Touch 1 | QVC
+3. Joe Starnes | Ombre | Touch 1 | Mouse Trap
+4. Luca Cuccia | Injoy | Touch 1 | Mouse Trap
+5. Jongjin Lim | NeuroSky | Touch 1 | Mouse Trap
+6. Nolan Walsh | Thursday Boot Company | Touch 1 | Mouse Trap
+7. Brownell | Either/Or | Touch 1 | QVC
+8. Andrea McCormick | Minimax Australia | Touch 1 | Mouse Trap
+9. Albert Nassar | VanMoof | Touch 1 | Mouse Trap
+10. Miray Tayfun | Vivoo | Touch 1 | Mouse Trap
+Inbox replies found: Bryan Crisfield (bryan@crislu.com / Crislu) — "Yes, thx to share" from 2026-05-09, still UNREAD (flagged since 2026-05-10, now 22 days old). No new replies from any other leads.
+Total drafted: 10
+Note: Skipped IDs 275 (Abigail Gross, mid-level), 277 (Dave Goto/Ozlo — same company as Brian Mulcahey drafted 2026-05-27), 278 (Anna Pappas, director-level), 280 (Quit With Jones — digital health app, not physical D2C product), 282 (mid-level), 283 (Nimbus Healthcare — pharmacy services), 285-289 (mid-level/non-fit), 292 (Gwen Floyd/Floyd — same company as Kyle Hoff drafted 2026-05-27), 294 (Kurt Workman/Owlet — third Owlet CEO contact), 295 (B2B marketing manager), 297-301 (mid-level managers), 302 (Amy Hatch/Garage Grown Gear — same company as Maggie Dimmick drafted 2026-05-28), 303-305 (mid-level/non-fit), 307-308 (mid-level/healthcare), 310 (Pacer Health — health app, not physical D2C product).
