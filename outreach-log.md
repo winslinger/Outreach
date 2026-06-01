@@ -401,3 +401,19 @@ Leads drafted:
 Inbox replies found: Bryan Crisfield (bryan@crislu.com / Crislu) — "Yes, thx to share" from 2026-05-09, still UNREAD (flagged since 2026-05-10, now 22 days old). No new replies from any other leads.
 Total drafted: 10
 Note: Skipped IDs 275 (Abigail Gross, mid-level), 277 (Dave Goto/Ozlo — same company as Brian Mulcahey drafted 2026-05-27), 278 (Anna Pappas, director-level), 280 (Quit With Jones — digital health app, not physical D2C product), 282 (mid-level), 283 (Nimbus Healthcare — pharmacy services), 285-289 (mid-level/non-fit), 292 (Gwen Floyd/Floyd — same company as Kyle Hoff drafted 2026-05-27), 294 (Kurt Workman/Owlet — third Owlet CEO contact), 295 (B2B marketing manager), 297-301 (mid-level managers), 302 (Amy Hatch/Garage Grown Gear — same company as Maggie Dimmick drafted 2026-05-28), 303-305 (mid-level/non-fit), 307-308 (mid-level/healthcare), 310 (Pacer Health — health app, not physical D2C product).
+
+## 2026-06-01 — Daily Run
+Leads drafted:
+1. Nazar Bilous | LaMetric | Touch 1 | Mouse Trap
+2. Loewen Cavill | Amira | Touch 1 | Mouse Trap
+3. Erin Deering | TRIANGL | Touch 1 | Mouse Trap
+4. Anish S | PAQ Wear | Touch 1 | PAS
+5. Mark Zhang | Manta Sleep | Touch 1 | Mouse Trap
+6. Pieter Lagaay | BEZALEL | Touch 1 | Mouse Trap
+7. Evan Dash | StoreBound | Touch 1 | Mouse Trap
+8. Jeannie Yoo | Draper James | Touch 1 | QVC
+9. Juan Morales | Tymewear | Touch 1 | PAS
+10. Mike Homayounian | Riot Society | Touch 1 | Mouse Trap
+Inbox replies found: Bryan Crisfield (bryan@crislu.com / Crislu) — "Yes, thx to share" from 2026-05-09, still UNREAD (flagged since 2026-05-10, now 23 days old — urgent). James Patten (james@absoluteskin.com.au / Ry.com.au) — OOO auto-reply 2026-05-04, directing to Elle Baker (previously logged). No new replies.
+Total drafted: 10
+Note: Skipped IDs 311-315 (mid-level/duplicate company), 317 (Tombot — robotics/dementia, not D2C product), 318-319 (non-CEO), 321 (Eight Sleep — 4th contact same company), 322-323 (marketing managers), 326 (Geviti — telehealth service), 327 (Floyd — third contact same company), 328-330 (mid-level/duplicate), 333-336 (mid-level/duplicates), 337-341 (mid-level/food/duplicates). Bryan Crisfield reply now 23 days unread — flagged again for Anant's urgent attention.
