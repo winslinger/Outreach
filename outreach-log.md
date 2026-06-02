@@ -417,3 +417,19 @@ Leads drafted:
 Inbox replies found: Bryan Crisfield (bryan@crislu.com / Crislu) — "Yes, thx to share" from 2026-05-09, still UNREAD (flagged since 2026-05-10, now 23 days old — urgent). James Patten (james@absoluteskin.com.au / Ry.com.au) — OOO auto-reply 2026-05-04, directing to Elle Baker (previously logged). No new replies.
 Total drafted: 10
 Note: Skipped IDs 311-315 (mid-level/duplicate company), 317 (Tombot — robotics/dementia, not D2C product), 318-319 (non-CEO), 321 (Eight Sleep — 4th contact same company), 322-323 (marketing managers), 326 (Geviti — telehealth service), 327 (Floyd — third contact same company), 328-330 (mid-level/duplicate), 333-336 (mid-level/duplicates), 337-341 (mid-level/food/duplicates). Bryan Crisfield reply now 23 days unread — flagged again for Anant's urgent attention.
+
+## 2026-06-02 — Daily Run
+Leads drafted:
+1. Marianne Liljenquist | Baltic Born | Touch 1 | Mouse Trap
+2. Rose Wood | GO SMILE | Touch 1 | Mouse Trap
+3. Carl Venables | WRAPS | Touch 1 | Mouse Trap
+4. Enich Harris | Caddis | Touch 1 | Mouse Trap
+5. Meredith Perry | Elemind | Touch 1 | Mouse Trap
+6. Meridith Cass | Nix Biosensors | Touch 1 | Mouse Trap
+7. Henry Fan | freebeat | Touch 1 | Mouse Trap
+8. Laurence Coen | Hearology | Touch 1 | Mouse Trap
+9. William Coulton | Rise & Fall | Touch 1 | QVC
+10. Royi Metser | Avelo | Touch 1 | Mouse Trap
+Inbox replies found: Bryan Crisfield (bryan@crislu.com / Crislu) — "Yes, thx to share" from 2026-05-09, still UNREAD (flagged since 2026-05-10, now 24 days old — URGENT, please reply). No new replies from any other leads.
+Total drafted: 10
+Note: Skipped IDs 369-375 (mid-level/non-D2C), 377-385 (non-CEO/non-fit), 388-395 (mid-level/duplicate companies), 397 (Sunday Citizen — Fiona Grindlay-Kuzian already drafted 2026-05-29), 398-404 (mid-level/non-fit), 408-409 (non-CEO/non-fit), 411-414 (mid-level/non-fit), 416 (Skin Authority duplicate), 418-420 (non-CEO/Skinnydip duplicate).
