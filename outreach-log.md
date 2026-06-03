@@ -433,3 +433,19 @@ Leads drafted:
 Inbox replies found: Bryan Crisfield (bryan@crislu.com / Crislu) — "Yes, thx to share" from 2026-05-09, still UNREAD (flagged since 2026-05-10, now 24 days old — URGENT, please reply). No new replies from any other leads.
 Total drafted: 10
 Note: Skipped IDs 369-375 (mid-level/non-D2C), 377-385 (non-CEO/non-fit), 388-395 (mid-level/duplicate companies), 397 (Sunday Citizen — Fiona Grindlay-Kuzian already drafted 2026-05-29), 398-404 (mid-level/non-fit), 408-409 (non-CEO/non-fit), 411-414 (mid-level/non-fit), 416 (Skin Authority duplicate), 418-420 (non-CEO/Skinnydip duplicate).
+
+## 2026-06-03 — Daily Run
+Leads drafted:
+1. Justin Miller | Nuheara | Touch 1 | Mouse Trap
+2. Scott Thomason | RevAir | Touch 1 | Mouse Trap
+3. Mickey Ashmore | Sabah Shoes | Touch 1 | QVC
+4. Sean Smith | Zoe | Touch 1 | QVC
+5. Andrew Herr | Flykitt | Touch 1 | PAS
+6. Elizabeth Gazda | Embr Labs | Touch 1 | Mouse Trap
+7. Sam Grossman | Sharper Image | Touch 1 | QVC
+8. Christopher Madeiras | Casa Leo | Touch 1 | Mouse Trap
+9. Lindsey Calcutt | Incora Health | Touch 1 | Mouse Trap
+10. Charlie Davies | McRoskey Mattress | Touch 1 | QVC
+Inbox replies found: Bryan Crisfield (bryan@crislu.com / Crislu) — "Yes, thx to share" from 2026-05-09, still UNREAD (flagged since 2026-05-10, now 25 days old — URGENT, please reply). No new replies from any other leads.
+Total drafted: 10
+Note: Skipped IDs 421-431 (mid-level/non-C-suite/duplicate companies), 433 (Neuronic — mental health app, not D2C physical product), 436-437 (food brand/non-C-suite), 439 (Nuheara non-exec duplicate), 442-451 (non-C-suite/B2B platform/duplicate companies), 453 (CFO non-CEO), 455-456 (marketing dir/non-fit), 458-468 (non-CEO/healthcare service/duplicates).
