@@ -465,3 +465,19 @@ Leads drafted:
 Inbox replies found: Bryan Crisfield (bryan@crislu.com / Crislu) — "Yes, thx to share" from 2026-05-09, STILL UNREAD (flagged since 2026-05-10, now 26 days old — URGENT). James Patten (james@absoluteskin.com.au / Ry.com.au) — OOO 2026-05-04, directed to Elle Baker. No new replies from any other leads.
 Total drafted: 10
 Note: Skipped IDs 470-479 (mid-level managers, non-D2C, seeds brand, duplicate companies), 481-483 (marketing directors, alcohol monitoring, incomplete data), 484-487 (duplicate company, health clinics, food brand), 490 (marketing director), 492-494 (party supplies/greeting cards/not a strong fit), 496-501 (mid-level marketers, duplicate companies), 504-513 (mid-level/non-CEO/duplicate companies), 516-517 (COO/mid-level), 519-527 (mid-level marketers, health clinics), 529-543 (mid-level/duplicate companies/MLM/health clinics).
+
+## 2026-06-05 — Daily Run
+Leads drafted:
+1. Karim Abed | WYR | Touch 1 | Mouse Trap
+2. Rom Ginzburg | MAËLYS | Touch 1 | Mouse Trap
+3. Rajia Abdelaziz | Flare | Touch 1 | Mouse Trap
+4. John Golden | Vital Neuro | Touch 1 | Mouse Trap
+5. Erika Kussmann | OSEA Malibu | Touch 1 | Mouse Trap
+6. Trina Fiala | VERIBELLA | Touch 1 | Mouse Trap
+7. Larry Schwartz | Aetrex | Touch 1 | Mouse Trap
+8. Melissa Aceves | TULA Skincare | Touch 1 | QVC
+9. Anna Gudmundson | Sensate | Touch 1 | Mouse Trap
+10. Jennifer Meng | Ready-Made | Touch 1 | Mouse Trap
+Inbox replies found: Bryan Crisfield (bryan@crislu.com / Crislu) — "Yes, thx to share" from 2026-05-09, STILL UNREAD (flagged since 2026-05-10, now 27 days old — URGENT, please reply). No new replies from any other leads in last 30 days.
+Total drafted: 10
+Note: Skipped IDs 544-594 and 596-629 and 631-638 and 640-645 (mid-level marketers, duplicate companies, food/nutrition brands, health clinics, non-D2C services, non-CEO/Founder titles). Picked CEOs/Founders from IDs 555, 558, 559, 575 skipped in favor of others, 580, 583, 592, 595, 630, 639, 646.
