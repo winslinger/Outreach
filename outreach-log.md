@@ -466,6 +466,21 @@ Inbox replies found: Bryan Crisfield (bryan@crislu.com / Crislu) — "Yes, thx t
 Total drafted: 10
 Note: Skipped IDs 470-479 (mid-level managers, non-D2C, seeds brand, duplicate companies), 481-483 (marketing directors, alcohol monitoring, incomplete data), 484-487 (duplicate company, health clinics, food brand), 490 (marketing director), 492-494 (party supplies/greeting cards/not a strong fit), 496-501 (mid-level marketers, duplicate companies), 504-513 (mid-level/non-CEO/duplicate companies), 516-517 (COO/mid-level), 519-527 (mid-level marketers, health clinics), 529-543 (mid-level/duplicate companies/MLM/health clinics).
 
+## 2026-06-06 — Daily Run
+Leads drafted:
+1. David Dermer | Funky Junque | Touch 2 | BAB
+2. Brig Taylor | SlideBelts | Touch 2 | BAB
+3. Nat Jacobov | American Stitch | Touch 2 | BAB
+4. Hunter Bell | Hunter Bell NYC | Touch 2 | BAB
+5. Amy Riordan | Sachin & Babi | Touch 2 | BAB
+6. Ani Hadjinian | point of view (POV Beauty) | Touch 2 | BAB
+7. Alex Nowlin | USCAPE | Touch 2 | BAB
+8. Chelsea Hansford | SIMONMILLER | Touch 2 | BAB
+9. James Salerno | Ringers Western | Touch 2 | BAB
+Inbox replies found: none new. Bryan Crisfield (bryan@crislu.com / Crislu) reply from 2026-05-09 no longer visible in inbox scan, likely archived. Still unresolved, needs Anant follow-up.
+Total drafted: 9
+Note: Bryan Crisfield (ID 8) skipped — replied 2026-05-09, automated touches paused. Touch 1 pipeline is now complete for all 646 leads in the CSV. Today begins Touch 2 cadence for cohort 1 (IDs 1-10, original send date 2026-05-03). CSV status updates from Anant needed to unlock Touch 3+ tracking.
+
 ## 2026-06-05 — Daily Run
 Leads drafted:
 1. Karim Abed | WYR | Touch 1 | Mouse Trap
