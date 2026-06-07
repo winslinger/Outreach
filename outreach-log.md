@@ -496,3 +496,9 @@ Leads drafted:
 Inbox replies found: Bryan Crisfield (bryan@crislu.com / Crislu) — "Yes, thx to share" from 2026-05-09, STILL UNREAD (flagged since 2026-05-10, now 27 days old — URGENT, please reply). No new replies from any other leads in last 30 days.
 Total drafted: 10
 Note: Skipped IDs 544-594 and 596-629 and 631-638 and 640-645 (mid-level marketers, duplicate companies, food/nutrition brands, health clinics, non-D2C services, non-CEO/Founder titles). Picked CEOs/Founders from IDs 555, 558, 559, 575 skipped in favor of others, 580, 583, 592, 595, 630, 639, 646.
+
+## 2026-06-07 — Daily Run
+Leads drafted: none
+Inbox replies found: Bryan Crisfield (bryan@crislu.com / Crislu) — "Yes, thx to share" from 2026-05-09, STILL UNREAD (29 days old — CRITICAL, needs immediate follow-up from Anant). No new replies from any other leads in last 30 days.
+Total drafted: 0
+Note: Pipeline in holding state. CSV only shows sent_1 for IDs 1-10. Touch 2 drafts for all 9 qualifying leads from cohort 1 (IDs 1-7, 9, 10) were created yesterday (2026-06-06) — re-drafting today would create triplicates. All other leads (IDs 11+) are at pending in CSV with Touch 1 already drafted across prior runs. No new unique drafts exist to create. Action required from Anant: update lead-queue.csv with sent statuses so Touch 2/3/4 cadences can unlock for cohorts 2+.
