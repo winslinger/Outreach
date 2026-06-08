@@ -502,3 +502,9 @@ Leads drafted: none
 Inbox replies found: Bryan Crisfield (bryan@crislu.com / Crislu) — "Yes, thx to share" from 2026-05-09, STILL UNREAD (29 days old — CRITICAL, needs immediate follow-up from Anant). No new replies from any other leads in last 30 days.
 Total drafted: 0
 Note: Pipeline in holding state. CSV only shows sent_1 for IDs 1-10. Touch 2 drafts for all 9 qualifying leads from cohort 1 (IDs 1-7, 9, 10) were created yesterday (2026-06-06) — re-drafting today would create triplicates. All other leads (IDs 11+) are at pending in CSV with Touch 1 already drafted across prior runs. No new unique drafts exist to create. Action required from Anant: update lead-queue.csv with sent statuses so Touch 2/3/4 cadences can unlock for cohorts 2+.
+
+## 2026-06-08 — Daily Run
+Leads drafted: none
+Inbox replies found: Bryan Crisfield (bryan@crislu.com / Crislu) — "Yes, thx to share" from 2026-05-09, STILL UNREAD (30 days old — CRITICAL, action required). No new replies from any other leads in last 30 days (full inbox scan completed across all 646 lead emails).
+Total drafted: 0
+Note: Pipeline blocked for 3rd consecutive day. Same root cause: CSV only shows sent_1 for IDs 1-10 and pending for IDs 11+. Touch 2 for cohort 1 was drafted on 2026-05-07 AND 2026-06-06 — creating a 3rd set today would be triplicates. Touch 3 cannot trigger until CSV shows sent_2. Anant must (1) clean duplicate Touch 2 drafts from Gmail Drafts, (2) update lead-queue.csv with actual sent statuses, and (3) reply to Bryan Crisfield immediately. Summary draft sent to winslinger@gmail.com.
