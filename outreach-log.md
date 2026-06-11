@@ -520,3 +520,9 @@ Leads drafted: none
 Inbox replies found: Bryan Crisfield (bryan@crislu.com / Crislu) — "Yes, thx to share" from 2026-05-09, STILL UNREAD (32 days old — CRITICAL, reply needed immediately). James Patten (james@absoluteskin.com.au / Ry.com.au) — OOO 2026-05-04, directed to Elle Baker. No new replies from any other leads.
 Total drafted: 0
 Note: Pipeline blocked for 5th consecutive day. Touch 2 for cohort 1 (IDs 1-10) already drafted twice (2026-05-07 and 2026-06-06); creating again would be triplicates. Touch 1 for IDs 11+ already drafted in all prior runs. To unblock: (1) reply to Bryan Crisfield immediately, (2) send cohort 1 Touch 2 drafts and delete duplicates from Gmail Drafts, (3) update lead-queue.csv with actual sent statuses. Summary draft created for winslinger@gmail.com.
+
+## 2026-06-11 — Daily Run
+Leads drafted: none
+Inbox replies found: none (full inbox scan completed across all lead domains — no new replies from any leads in last 30 days)
+Total drafted: 0
+Note: Pipeline blocked for 6th consecutive day. CSV unchanged: sent_1 for IDs 1-10, pending for IDs 11+. Touch 2 for cohort 1 (IDs 1-7, 9, 10) already drafted twice (2026-05-07 and 2026-06-06); Touch 1 for all pending leads already drafted in all prior runs. Bryan Crisfield (bryan@crislu.com) reply from 2026-05-09 now 33 days old — CRITICAL. To unblock: (1) reply to Bryan Crisfield immediately, (2) go to Gmail Drafts and delete duplicate Touch 2 set, send the other, (3) update lead-queue.csv with actual sent statuses so Touch 3+ cadences can unlock. Summary draft created for winslinger@gmail.com.
