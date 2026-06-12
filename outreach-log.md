@@ -526,3 +526,9 @@ Leads drafted: none
 Inbox replies found: none (full inbox scan completed across all lead domains — no new replies from any leads in last 30 days)
 Total drafted: 0
 Note: Pipeline blocked for 6th consecutive day. CSV unchanged: sent_1 for IDs 1-10, pending for IDs 11+. Touch 2 for cohort 1 (IDs 1-7, 9, 10) already drafted twice (2026-05-07 and 2026-06-06); Touch 1 for all pending leads already drafted in all prior runs. Bryan Crisfield (bryan@crislu.com) reply from 2026-05-09 now 33 days old — CRITICAL. To unblock: (1) reply to Bryan Crisfield immediately, (2) go to Gmail Drafts and delete duplicate Touch 2 set, send the other, (3) update lead-queue.csv with actual sent statuses so Touch 3+ cadences can unlock. Summary draft created for winslinger@gmail.com.
+
+## 2026-06-12 — Daily Run
+Leads drafted: none
+Inbox replies found: none (full inbox scan completed across all lead domains — no new replies from any leads in last 30 days)
+Total drafted: 0
+Note: Pipeline blocked for 7th consecutive day. CSV unchanged: sent_1 for IDs 1-10, pending for IDs 11+. Touch 2 for cohort 1 (IDs 1-9, 10) already drafted twice (2026-05-07 and 2026-06-06); Touch 1 for all pending leads already drafted in all prior runs. Bryan Crisfield (bryan@crislu.com) reply from 2026-05-09 now 34 days old — CRITICAL. To unblock: (1) reply to Bryan Crisfield immediately, (2) go to Gmail Drafts, keep the 2026-06-06 Touch 2 set and delete the 2026-05-07 duplicates, send what you want, (3) update lead-queue.csv with actual sent statuses. Summary draft created for winslinger@gmail.com.
