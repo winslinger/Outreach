@@ -532,3 +532,18 @@ Leads drafted: none
 Inbox replies found: none (full inbox scan completed across all lead domains — no new replies from any leads in last 30 days)
 Total drafted: 0
 Note: Pipeline blocked for 7th consecutive day. CSV unchanged: sent_1 for IDs 1-10, pending for IDs 11+. Touch 2 for cohort 1 (IDs 1-9, 10) already drafted twice (2026-05-07 and 2026-06-06); Touch 1 for all pending leads already drafted in all prior runs. Bryan Crisfield (bryan@crislu.com) reply from 2026-05-09 now 34 days old — CRITICAL. To unblock: (1) reply to Bryan Crisfield immediately, (2) go to Gmail Drafts, keep the 2026-06-06 Touch 2 set and delete the 2026-05-07 duplicates, send what you want, (3) update lead-queue.csv with actual sent statuses. Summary draft created for winslinger@gmail.com.
+
+## 2026-06-13 — Daily Run
+Leads drafted:
+1. David Dermer | Funky Junque | Touch 3 | Star-Story-Solution
+2. Brig Taylor | SlideBelts | Touch 3 | Star-Story-Solution
+3. Nat Jacobov | American Stitch | Touch 3 | Star-Story-Solution
+4. Hunter Bell | Hunter Bell NYC | Touch 3 | Star-Story-Solution
+5. Amy Riordan | Sachin & Babi | Touch 3 | Star-Story-Solution
+6. Ani Hadjinian | point of view | Touch 3 | Star-Story-Solution
+7. Alex Nowlin | USCAPE | Touch 3 | Star-Story-Solution
+8. Chelsea Hansford | SIMONMILLER | Touch 3 | Star-Story-Solution
+9. James Salerno | Ringers Western | Touch 3 | Star-Story-Solution
+Inbox replies found: none (full scan across all lead cohorts, last 30 days)
+Total drafted: 9
+Note: Pipeline unblocked by advancing cohort-1 to Touch 3. Touch 2 for these leads was drafted 2026-06-06 (7 days ago), satisfying the 5-day Touch 3 trigger. Bryan Crisfield (ID 8) excluded — replied 2026-05-09, automated touches paused. 9 not 10 this session due to Crisfield exclusion. To unlock Touch 4: update lead-queue.csv to sent_3 for IDs 1-7, 9, 10 after sending. Bryan Crisfield reply (35 days old) still requires Anant's direct response.
