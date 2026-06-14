@@ -547,3 +547,9 @@ Leads drafted:
 Inbox replies found: none (full scan across all lead cohorts, last 30 days)
 Total drafted: 9
 Note: Pipeline unblocked by advancing cohort-1 to Touch 3. Touch 2 for these leads was drafted 2026-06-06 (7 days ago), satisfying the 5-day Touch 3 trigger. Bryan Crisfield (ID 8) excluded — replied 2026-05-09, automated touches paused. 9 not 10 this session due to Crisfield exclusion. To unlock Touch 4: update lead-queue.csv to sent_3 for IDs 1-7, 9, 10 after sending. Bryan Crisfield reply (35 days old) still requires Anant's direct response.
+
+## 2026-06-14 — Daily Run
+Leads drafted: none
+Inbox replies found: Bryan Crisfield (bryan@crislu.com / Crislu) — "Yes, thx to share" from 2026-05-09, STILL UNREAD (36 days old — CRITICAL, reply needed today). No new replies from any other leads in last 30 days (full inbox scan completed).
+Total drafted: 0
+Note: Pipeline in holding pattern. Touch 3 for cohort 1 (IDs 1-7, 9, 10) drafted yesterday (2026-06-13). Touch 4 (breakup) requires 7+ days after Touch 3 — earliest 2026-06-20. IDs 11+ are pending in CSV but Touch 1 was already drafted for all qualifying leads in prior runs. To unblock: (1) reply to Bryan Crisfield immediately, (2) send Touch 3 drafts for cohort 1 from Gmail Drafts, (3) update lead-queue.csv with actual sent statuses. Next action for this routine: Touch 4 drafts on or after 2026-06-20.
