@@ -565,3 +565,9 @@ Leads drafted: none
 Inbox replies found: Bryan Crisfield (bryan@crislu.com / Crislu) — "Yes, thx to share" from 2026-05-09, STILL UNREAD (38 days old — CRITICAL, reply at bryan@crislu.com now). James Patten (james@absoluteskin.com.au / Ry.com.au) — OOO auto-reply 2026-05-04, directing to Elle Baker for brand/supplier relationships. No new replies from any other leads (full inbox scan completed).
 Total drafted: 0
 Note: Pipeline in holding pattern. Touch 3 for cohort 1 (IDs 1-7, 9, 10) drafted 2026-06-13. Touch 4 (breakup) requires 7+ days — not due until 2026-06-20. IDs 11+ all have Touch 1 already drafted in prior runs. To unblock: (1) reply to Bryan Crisfield immediately, (2) send Touch 3 drafts for cohort 1 from Gmail Drafts, (3) update lead-queue.csv with actual sent statuses. Next routine action: Touch 4 (breakup) drafts on or after 2026-06-20.
+
+## 2026-06-17 — Daily Run
+Leads drafted: none
+Inbox replies found: none (full inbox scan completed across all lead domains — no new replies from any leads in last 30 days)
+Total drafted: 0
+Note: Pipeline in holding pattern. Touch 3 for cohort 1 (IDs 1-7, 9, 10) drafted 2026-06-13 (4 days ago). Touch 4 (breakup) requires 7+ days — not due until 2026-06-20. IDs 11+ all have Touch 1 already drafted in prior runs. Bryan Crisfield (bryan@crislu.com) reply from 2026-05-09 now 39 days old — CRITICAL. To unblock: (1) reply to Bryan Crisfield immediately, (2) send Touch 3 drafts for cohort 1 from Gmail Drafts, (3) update lead-queue.csv with actual sent statuses. Next routine action: Touch 4 (breakup) drafts on 2026-06-20 (3 days).
