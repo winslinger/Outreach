@@ -583,3 +583,18 @@ Leads drafted: none
 Inbox replies found: none (full inbox scan completed across all lead domains — no replies from any leads in last 30 days; Bryan Crisfield's 2026-05-09 reply is now 41 days old, outside 30-day scan window)
 Total drafted: 0
 Note: Pipeline in holding pattern. Touch 3 for cohort 1 (IDs 1-7, 9, 10) drafted 2026-06-13 (6 days ago). Touch 4 (breakup) requires 7+ days — due tomorrow, 2026-06-20. IDs 11+ all have Touch 1 already drafted in prior runs. To unblock: (1) reply to Bryan Crisfield at bryan@crislu.com (41 days, no longer in 30-day inbox window — find in All Mail), (2) send Touch 3 drafts for cohort 1, (3) update lead-queue.csv with actual sent statuses. Next routine action: Touch 4 (breakup) drafts on 2026-06-20.
+
+## 2026-06-20 — Daily Run
+Leads drafted:
+1. David Dermer | Funky Junque | Touch 4 | Breakup (1-2-3)
+2. Brig Taylor | SlideBelts | Touch 4 | Breakup (1-2-3)
+3. Nat Jacobov | American Stitch | Touch 4 | Breakup (1-2-3)
+4. Hunter Bell | Hunter Bell NYC | Touch 4 | Breakup (1-2-3)
+5. Amy Riordan | Sachin & Babi | Touch 4 | Breakup (1-2-3)
+6. Ani Hadjinian | point of view (POV Beauty) | Touch 4 | Breakup (1-2-3)
+7. Alex Nowlin | USCAPE | Touch 4 | Breakup (1-2-3)
+8. Chelsea Hansford | SIMONMILLER | Touch 4 | Breakup (1-2-3)
+9. James Salerno | Ringers Western | Touch 4 | Breakup (1-2-3)
+Inbox replies found: none (full inbox scan completed across all lead domains, last 30 days)
+Total drafted: 9
+Note: Bryan Crisfield (ID 8) excluded — replied 2026-05-09, automated touches paused. Touch 4 (breakup) is the final automated touch for cohort 1 (IDs 1-7, 9, 10). After sending, update lead-queue.csv to sent_4 for these leads — sequence complete, no further automated touches. Bryan Crisfield reply (42 days old, outside 30-day scan window) still requires Anant's direct response — find in Gmail All Mail at bryan@crislu.com. Pipeline fully depends on CSV updates from Anant for cohorts 2+ to unlock.
