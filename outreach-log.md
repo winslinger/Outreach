@@ -598,3 +598,9 @@ Leads drafted:
 Inbox replies found: none (full inbox scan completed across all lead domains, last 30 days)
 Total drafted: 9
 Note: Bryan Crisfield (ID 8) excluded — replied 2026-05-09, automated touches paused. Touch 4 (breakup) is the final automated touch for cohort 1 (IDs 1-7, 9, 10). After sending, update lead-queue.csv to sent_4 for these leads — sequence complete, no further automated touches. Bryan Crisfield reply (42 days old, outside 30-day scan window) still requires Anant's direct response — find in Gmail All Mail at bryan@crislu.com. Pipeline fully depends on CSV updates from Anant for cohorts 2+ to unlock.
+
+## 2026-06-21 — Daily Run
+Leads drafted: none
+Inbox replies found: Bryan Crisfield (bryan@crislu.com / Crislu) — "Yes, thx to share" from 2026-05-09, still in inbox (43 days old — CRITICAL, reply at subject "RE: jewelry content"). No new replies from any other leads in last 30 days (full inbox scan completed).
+Total drafted: 0
+Note: Pipeline in holding. Touch 4 (breakup 1-2-3) for cohort 1 (IDs 1-7, 9, 10) drafted yesterday (2026-06-20). Touch 5 (final one-liner breakup) requires 7+ days — due 2026-06-27. IDs 11+ all have Touch 1 already drafted in prior runs. To unblock cohorts 2+: update lead-queue.csv with actual sent statuses. Next routine action: Touch 5 (final breakup) drafts on 2026-06-27.
