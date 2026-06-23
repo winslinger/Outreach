@@ -610,3 +610,9 @@ Leads drafted: none
 Inbox replies found: Bryan Crisfield (bryan@crislu.com / Crislu) — "Yes, thx to share" from 2026-05-09, still unread in inbox (44 days old — CRITICAL, subject "RE: jewelry content", please reply now). No other replies from any leads in last 30 days (full scan across all 646 lead email addresses completed).
 Total drafted: 0
 Note: Pipeline in scheduled hold. Touch 4 (breakup 1-2-3) for cohort 1 (IDs 1-7, 9, 10) drafted 2026-06-20 — Touch 5 (final one-liner breakup) not due until 2026-06-27 (7-day rule). All IDs 11+ Touch 1 drafts complete from prior runs. Next routine action: Touch 5 (final breakup) drafts on 2026-06-27. To unlock cohorts 2+: update lead-queue.csv with actual sent statuses.
+
+## 2026-06-23 — Daily Run
+Leads drafted: none
+Inbox replies found: none (full scan across all lead domains, last 30 days — no replies from any leads)
+Total drafted: 0
+Note: Pipeline in scheduled hold. Touch 4 (breakup 1-2-3) for cohort 1 drafted 2026-06-20 — Touch 5 (final one-liner breakup) not due until 2026-06-27 (7-day rule). All IDs 11+ Touch 1 drafts complete from prior runs. Bryan Crisfield (bryan@crislu.com) replied 2026-05-09 (now 45 days ago, outside 30-day scan window — find in Gmail All Mail at subject "RE: jewelry content"). Next routine action: Touch 5 (final breakup) drafts on 2026-06-27.
