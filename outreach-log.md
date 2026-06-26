@@ -628,3 +628,9 @@ Leads drafted: none
 Inbox replies found: none (full scan across all lead domains, last 30 days — no new replies from any leads; Bryan Crisfield reply from 2026-05-09 confirmed still in All Mail at subject "RE: jewelry content", now 47 days old)
 Total drafted: 0
 Note: Pipeline in scheduled hold. Touch 4 (breakup 1-2-3) for cohort 1 (IDs 1-7, 9, 10) drafted 2026-06-20 — Touch 5 (final one-liner breakup) requires 7+ days, due 2026-06-27 (2 days from now). All IDs 11+ Touch 1 drafts complete from prior runs. Next routine action: Touch 5 (final breakup) drafts on 2026-06-27. To unlock cohorts 2+: update lead-queue.csv with actual sent statuses.
+
+## 2026-06-26 — Daily Run
+Leads drafted: none
+Inbox replies found: none (full inbox scan + targeted cohort-1 address scan completed — no replies from any leads in last 30 days; Bryan Crisfield (bryan@crislu.com) reply from 2026-05-09 is now 48 days old, outside 30-day scan window — find in All Mail at subject "RE: jewelry content")
+Total drafted: 0
+Note: Pipeline in scheduled hold. Touch 4 (breakup 1-2-3) for cohort 1 (IDs 1-7, 9, 10) drafted 2026-06-20 — Touch 5 (final one-liner breakup) requires 7+ days, due 2026-06-27 (tomorrow). All IDs 11+ Touch 1 drafts complete from prior runs. Next routine action: Touch 5 (final breakup) drafts on 2026-06-27. To unlock cohorts 2+: update lead-queue.csv with actual sent statuses. Summary draft created for winslinger@gmail.com.
