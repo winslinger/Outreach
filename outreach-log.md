@@ -634,3 +634,18 @@ Leads drafted: none
 Inbox replies found: none (full inbox scan + targeted cohort-1 address scan completed — no replies from any leads in last 30 days; Bryan Crisfield (bryan@crislu.com) reply from 2026-05-09 is now 48 days old, outside 30-day scan window — find in All Mail at subject "RE: jewelry content")
 Total drafted: 0
 Note: Pipeline in scheduled hold. Touch 4 (breakup 1-2-3) for cohort 1 (IDs 1-7, 9, 10) drafted 2026-06-20 — Touch 5 (final one-liner breakup) requires 7+ days, due 2026-06-27 (tomorrow). All IDs 11+ Touch 1 drafts complete from prior runs. Next routine action: Touch 5 (final breakup) drafts on 2026-06-27. To unlock cohorts 2+: update lead-queue.csv with actual sent statuses. Summary draft created for winslinger@gmail.com.
+
+## 2026-06-27 — Daily Run
+Leads drafted:
+1. David Dermer | Funky Junque | Touch 5 | Final breakup (one-liner)
+2. Brig Taylor | SlideBelts | Touch 5 | Final breakup (one-liner)
+3. Nat Jacobov | American Stitch | Touch 5 | Final breakup (one-liner)
+4. Hunter Bell | Hunter Bell NYC | Touch 5 | Final breakup (one-liner)
+5. Amy Riordan | Sachin & Babi | Touch 5 | Final breakup (one-liner)
+6. Ani Hadjinian | point of view (POV Beauty) | Touch 5 | Final breakup (one-liner)
+7. Alex Nowlin | USCAPE | Touch 5 | Final breakup (one-liner)
+8. Chelsea Hansford | SIMONMILLER | Touch 5 | Final breakup (one-liner)
+9. James Salerno | Ringers Western | Touch 5 | Final breakup (one-liner)
+Inbox replies found: none (full scan across cohort-1 addresses + broader lead pool, last 30 days; Bryan Crisfield reply from 2026-05-09 is now 49 days old, outside scan window — find in All Mail at subject "RE: jewelry content")
+Total drafted: 9
+Note: Bryan Crisfield (ID 8) excluded — replied 2026-05-09, automated touches paused. This completes the full 5-touch sequence for cohort 1 (IDs 1-7, 9, 10). After sending, update lead-queue.csv to sent_5 for these leads — sequence complete, no further automated touches. To unlock cohorts 2+: update lead-queue.csv with actual sent statuses.
