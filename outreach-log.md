@@ -655,3 +655,9 @@ Leads drafted: none
 Inbox replies found: Alex Nowlin (alex@uscapeapparel.com / USCAPE) — OOO auto-reply to Touch 5 "closing the loop" email, 2026-06-28, returning 6/30. Auto-reply only, not a genuine response. No other replies from any leads in last 30 days (full scan across cohort-1 domains + broader lead domain batches completed).
 Total drafted: 0
 Note: Full 5-touch sequence for cohort 1 (IDs 1-7, 9, 10) now complete as of yesterday (Touch 5 drafted 2026-06-27). Pipeline is in permanent hold pending CSV updates from Anant. All IDs 11+ Touch 1 drafts complete from prior runs. To unblock: update lead-queue.csv with actual sent statuses so Touch 2+ cadences can unlock for cohorts 2+.
+
+## 2026-06-29 — Daily Run
+Leads drafted: none
+Inbox replies found: Alex Nowlin (alex@uscapeapparel.com / USCAPE) — OOO auto-reply to Touch 5, returning 6/30 (already logged 2026-06-28). No new replies from any leads — full inbox scan completed across all lead cohorts (last 30 days).
+Total drafted: 0
+Note: Pipeline in permanent hold. Full 5-touch sequence for cohort 1 (IDs 1-7, 9, 10) complete as of 2026-06-27. Touch 1 drafted for all IDs 11+ in prior runs. CSV unchanged: sent_1 for IDs 1-10, pending for IDs 11+. To unblock: update lead-queue.csv with actual sent statuses. Bryan Crisfield (bryan@crislu.com) replied 2026-05-09 — now 51 days old, in All Mail at subject "RE: jewelry content" — reply needed. Summary draft created for winslinger@gmail.com.
