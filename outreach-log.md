@@ -695,3 +695,18 @@ Leads drafted:
 Inbox replies found: alex@uscapeapparel.com — OOO auto-reply to "closing the loop" subject (returned 6/30, already logged 2026-06-28). No genuine TC-system replies from new leads. Inbox also shows Anant running a separate "free AI commercial" campaign independently — IM8 replied asking to submit via partnership form; Alveta declined. No action needed from this routine on those threads.
 Total drafted: 10
 Note: Pipeline unblocked — 10 new Touch 1 drafts created for qualifying CEO/Founder leads not previously drafted. All 10 leads updated in lead-queue.csv to status=drafted, date_drafted=2026-07-03. These are gadgets/wearables leads (IDs 377, 398, 471, 502, 503, 511, 514, 522, 550, 563). Bryan Crisfield (bryan@crislu.com) reply from 2026-05-09 now 55 days old — find in All Mail at subject "RE: jewelry content", reply needed. Summary draft created for winslinger@gmail.com.
+
+## 2026-07-04 — Daily Run
+Leads drafted:
+1. Mikaella Go | Vessi | Touch 1 | Mouse Trap (mikaella@vessi.com)
+2. Peter Ruppe | Avelo | Touch 1 | QVC (peter@avelorunning.com)
+3. Ram Gurumoorthy | StimScience | Touch 1 | Mouse Trap (ram@stimscience.com)
+4. Jake Wadsworth | HydroJug | Touch 1 | QVC (jake@thehydrojug.com)
+5. Kevin McDonnell | Oricom International | Touch 1 | QVC (kevinmcdonnell@oricom.com.au)
+6. Louise Doyle | needi | Touch 1 | Mouse Trap (louise@needi.co.uk)
+7. Alison Carroll | Wonder Valley | Touch 1 | Mouse Trap (alison@welcometowondervalley.com)
+8. Fiona Yu | Viva Naturals | Touch 1 | QVC (fiona@vivanaturals.com)
+9. Andrew Sandbrook | CPR Global Technology | Touch 1 | QVC (andrew.sandbrook@cprglobaltech.com)
+10. Luca Ranaldi | Found | Touch 1 | Mouse Trap (luca@joinfound.com)
+Inbox replies found: none (full scan across all lead cohorts, last 30 days — no new replies from any leads; Bryan Crisfield reply from 2026-05-09 now 56 days old, outside 30-day window — find in All Mail at subject "RE: jewelry content")
+Total drafted: 10
