@@ -710,3 +710,19 @@ Leads drafted:
 10. Luca Ranaldi | Found | Touch 1 | Mouse Trap (luca@joinfound.com)
 Inbox replies found: none (full scan across all lead cohorts, last 30 days — no new replies from any leads; Bryan Crisfield reply from 2026-05-09 now 56 days old, outside 30-day window — find in All Mail at subject "RE: jewelry content")
 Total drafted: 10
+
+## 2026-07-05 — 10 drafts created
+Leads drafted:
+1. Chad Janis | Gruns | Touch 1 | Mouse Trap (chad@drinkgruns.com)
+2. Geoff Mackellar | EMOTIV | Touch 1 | Mouse Trap (geoff@emotiv.com)
+3. Lestat McCree | Healf | Touch 1 | Mouse Trap (lestat@healf.com)
+4. Shizu Okusa | Apothekary | Touch 1 | Mouse Trap (shizu@apothekary.co)
+5. Nick Torday | Bower Collective | Touch 1 | Mouse Trap (nick@bowercollective.com)
+6. Kate Casey | the memo | Touch 1 | Mouse Trap (kate@thememo.com)
+7. Cheryl Hoy | Tiny Health | Touch 1 | Mouse Trap (cheryl@tinyhealth.com)
+8. Micah Katz | Move | Touch 1 | Mouse Trap (micah@move.ai)
+9. Grant Moulton | Pocket Radar | Touch 1 | Mouse Trap (grant@pocketradar.com)
+10. Swarup Banerjee | FKA Brands (HoMedics) | Touch 1 | Mouse Trap (swarup@fkabrands.com)
+Inbox replies found: none (full scan across cohort 1 + July 3/4 lead domains, last 30 days — no new replies from any leads; Bryan Crisfield reply from 2026-05-09 outside 30-day window, find in All Mail at subject "RE: jewelry content"; Alex Nowlin OOO already logged 2026-06-28)
+Total drafted: 10
+Note: All 10 new Touch 1 drafts, all CEO/Founder level, no CSV status update needed (Anant updates manually). Summary draft created for winslinger@gmail.com (subject: "outreach ready").
