@@ -726,3 +726,19 @@ Leads drafted:
 Inbox replies found: none (full scan across cohort 1 + July 3/4 lead domains, last 30 days — no new replies from any leads; Bryan Crisfield reply from 2026-05-09 outside 30-day window, find in All Mail at subject "RE: jewelry content"; Alex Nowlin OOO already logged 2026-06-28)
 Total drafted: 10
 Note: All 10 new Touch 1 drafts, all CEO/Founder level, no CSV status update needed (Anant updates manually). Summary draft created for winslinger@gmail.com (subject: "outreach ready").
+
+## 2026-07-06 — 10 drafts created
+Leads drafted:
+1. Aman Advani | Ministry of Supply | Touch 1 | Mouse Trap (aman@ministryofsupply.com)
+2. Andrew Resnick | Blueprint | Touch 1 | Mouse Trap (andrew@bryanjohnson.com)
+3. Varun Bhanot | MAGIC AI | Touch 1 | Mouse Trap (varun@magic.fit)
+4. Adam Smith | The Sill | Touch 1 | QVC (smith@thesill.com)
+5. Michael Krieger | Sunday Citizen | Touch 1 | Mouse Trap (michael@sundaycitizen.co)
+6. Tony Tomas | TC Nutrition | Touch 1 | QVC (tony@tc-nutrition.com)
+7. Matthew Salihi | Touch Biotechnology | Touch 1 | Mouse Trap (matt@touchaustralia.com.au)
+8. Ahmet Yanik | Mavigadget | Touch 1 | Mouse Trap (ahmet@mavigadget.com)
+9. Francesca Pezzutto | Baby Village | Touch 1 | Mouse Trap (francesca@babyvillage.com.au)
+10. Rich Miller | Digitek | Touch 1 | Mouse Trap (rmiller@digitekshop.com)
+Inbox replies found: Bryan Crisfield (bryan@crislu.com / Crislu) — "Yes, thx to share" from 2026-05-09, confirmed still UNREAD in inbox (58 days old — CRITICAL, subject "RE: jewelry content", reply needed now). No new replies from any other leads in last 30 days (full scan completed).
+Total drafted: 10
+Note: All 10 new Touch 1 drafts, CEO/Founder level, mix of fashion/gadgets/wearables/wellness leads. No CSV status update needed (Anant updates manually). Draft IDs: r-2026191606591204963, r6748808431726576810, r773549231821151823, r-3840594341229257928, r-4771247506054279038, r-4681172061960308205, r6871628425311199923, r8392728380175453945, r-5044900773700089097, r-603851422072001854. Summary draft created for winslinger@gmail.com (subject: "outreach ready", draft ID: r3956893729017945860).
