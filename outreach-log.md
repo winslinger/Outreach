@@ -742,3 +742,19 @@ Leads drafted:
 Inbox replies found: Bryan Crisfield (bryan@crislu.com / Crislu) — "Yes, thx to share" from 2026-05-09, confirmed still UNREAD in inbox (58 days old — CRITICAL, subject "RE: jewelry content", reply needed now). No new replies from any other leads in last 30 days (full scan completed).
 Total drafted: 10
 Note: All 10 new Touch 1 drafts, CEO/Founder level, mix of fashion/gadgets/wearables/wellness leads. No CSV status update needed (Anant updates manually). Draft IDs: r-2026191606591204963, r6748808431726576810, r773549231821151823, r-3840594341229257928, r-4771247506054279038, r-4681172061960308205, r6871628425311199923, r8392728380175453945, r-5044900773700089097, r-603851422072001854. Summary draft created for winslinger@gmail.com (subject: "outreach ready", draft ID: r3956893729017945860).
+
+## 2026-07-07 — 10 drafts created
+Leads drafted:
+1. Sean Smith | Zoe | Touch 1 | Mouse Trap (sean@zoebaby.com)
+2. Bryony Rammell | AYBL | Touch 1 | Mouse Trap (b.hollier@beaybl.com)
+3. Vicky Yang | MOFT | Touch 1 | Mouse Trap (vicky@moft.us)
+4. Mike Battat | iStore | Touch 1 | Mouse Trap (mike@istore.ca)
+5. Samantha Freres | Wishing Well | Touch 1 | QVC (samantha@wishingwellwashing.com)
+6. Alun Hindle | Medichecks | Touch 1 | Mouse Trap (alun.hindle@medichecks.com)
+7. Madeeha Mirza | Hapbee | Touch 1 | Mouse Trap (madeeha@hapbee.com)
+8. Charlie Hill | Harbor | Touch 1 | Mouse Trap (charlie@harbor.co)
+9. Benoit Lewden | iHeart | Touch 1 | Mouse Trap (ben@goiheart.com)
+10. Amanda Liu | VEGAMOUR | Touch 1 | Mouse Trap (aliu@vegamour.com)
+Inbox replies found: Bryan Crisfield (bryan@crislu.com / Crislu) — "Yes, thx to share" from 2026-05-09, still UNREAD (59 days old — CRITICAL, subject "RE: jewelry content", reply needed immediately). No new replies from any other leads in last 30 days (full scan completed). Manual outreach by Anant: Alveta declined ("not looking to explore new creative"), IM8 auto-redirected to partnership form.
+Total drafted: 10
+Note: ** DUPLICATE ALERT: Sean Smith | Zoe (ID 438) was already drafted on 2026-06-03. Delete the new draft before sending to avoid double-contacting. ** Bryony Rammell (AYBL) carries title "Head of Brand Marketing" — not CEO/Founder. Anant to decide whether to send. All other leads are CEO/Founder/Owner level. Draft IDs: r-724584366360392902 (Sean/Zoe), r5431447398129059255 (AYBL), r1230569251429317295 (MOFT), r483447095241788420 (iStore), r-8325468823216982547 (Wishing Well), r6865893728565394407 (Medichecks), r-7821468389732124817 (Hapbee), r7464143407680087387 (Harbor), r-4802995956544575302 (iHeart), r5308423491579747725 (VEGAMOUR). Summary draft created for winslinger@gmail.com (subject: "outreach ready", draft ID: r4356314127187051327).
