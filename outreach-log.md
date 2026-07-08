@@ -758,3 +758,19 @@ Leads drafted:
 Inbox replies found: Bryan Crisfield (bryan@crislu.com / Crislu) — "Yes, thx to share" from 2026-05-09, still UNREAD (59 days old — CRITICAL, subject "RE: jewelry content", reply needed immediately). No new replies from any other leads in last 30 days (full scan completed). Manual outreach by Anant: Alveta declined ("not looking to explore new creative"), IM8 auto-redirected to partnership form.
 Total drafted: 10
 Note: ** DUPLICATE ALERT: Sean Smith | Zoe (ID 438) was already drafted on 2026-06-03. Delete the new draft before sending to avoid double-contacting. ** Bryony Rammell (AYBL) carries title "Head of Brand Marketing" — not CEO/Founder. Anant to decide whether to send. All other leads are CEO/Founder/Owner level. Draft IDs: r-724584366360392902 (Sean/Zoe), r5431447398129059255 (AYBL), r1230569251429317295 (MOFT), r483447095241788420 (iStore), r-8325468823216982547 (Wishing Well), r6865893728565394407 (Medichecks), r-7821468389732124817 (Hapbee), r7464143407680087387 (Harbor), r-4802995956544575302 (iHeart), r5308423491579747725 (VEGAMOUR). Summary draft created for winslinger@gmail.com (subject: "outreach ready", draft ID: r4356314127187051327).
+
+## 2026-07-08 — 10 drafts created
+Leads drafted:
+1. Marc Sieger | Renovation Brands | Touch 1 | Mouse Trap (marc@renovationbrands.com)
+2. Warren Liu | GODIRECTINC.COM | Touch 1 | QVC (warren@godirectinc.com)
+3. Eliott Wertheimer | VanMoof | Touch 1 | Mouse Trap (eliott.wertheimer@vanmoof.com)
+4. David Gandini | SOBRsafe | Touch 1 | PAS (david.gandini@sobrsafe.com)
+5. Gary Gold | Skinnydip London | Touch 1 | Mouse Trap (gary.gold@skinnydiplondon.com)
+6. Colin Mohamed | Frontpoint | Touch 1 | Mouse Trap (colin.mohamed@cpa.com)
+7. Gregory Fontaine | SUBPAC | Touch 1 | Mouse Trap (gregory.scotiniadis@subpac.com)
+8. Charles Taylor | Ozlo | Touch 1 | Mouse Trap (charlie@ozlosleep.com)
+9. Durana Elmi | Cymbiotika | Touch 1 | QVC (durana@cymbiotika.com)
+10. Charlie Chanaratsopon | Boosted Commerce | Touch 1 | Mouse Trap (charlie@boostedcommerce.com)
+Inbox replies found: Bryan Crisfield (bryan@crislu.com / Crislu) — "Yes, thx to share" from 2026-05-09, now 60 days old — CRITICAL, subject "RE: jewelry content", reply needed immediately. No new replies from any other leads in last 30 days (inbox scan completed).
+Total drafted: 10
+Note: ** VERIFY BEFORE SENDING: Colin Mohamed email (colin.mohamed@cpa.com) — domain looks like a CPA firm, not Frontpoint; confirm address before sending. Gregory Fontaine (SUBPAC) email (gregory.scotiniadis@subpac.com) — surname differs from contact name (Fontaine vs Scotiniadis); verify this is correct. ** Durana Elmi (Cymbiotika) is Founder/COO, not CEO — included as Founder. All others are CEO/Co-Founder/President level. Draft IDs: r8361984309636508041 (Renovation Brands), r326077106078738984 (GODIRECTINC), r-1382766044432622397 (VanMoof), r8530914403808225296 (SOBRsafe), r-2915354715263471282 (Skinnydip), r-2820412916786394905 (Frontpoint), r-6128762185046853627 (SUBPAC), r-439826946233532493 (Ozlo), r2030409639772424901 (Cymbiotika), r8769911223601208536 (Boosted Commerce). Summary draft created for winslinger@gmail.com (subject: "outreach ready", draft ID: r2800552665589923639).
