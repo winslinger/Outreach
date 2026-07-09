@@ -774,3 +774,19 @@ Leads drafted:
 Inbox replies found: Bryan Crisfield (bryan@crislu.com / Crislu) — "Yes, thx to share" from 2026-05-09, now 60 days old — CRITICAL, subject "RE: jewelry content", reply needed immediately. No new replies from any other leads in last 30 days (inbox scan completed).
 Total drafted: 10
 Note: ** VERIFY BEFORE SENDING: Colin Mohamed email (colin.mohamed@cpa.com) — domain looks like a CPA firm, not Frontpoint; confirm address before sending. Gregory Fontaine (SUBPAC) email (gregory.scotiniadis@subpac.com) — surname differs from contact name (Fontaine vs Scotiniadis); verify this is correct. ** Durana Elmi (Cymbiotika) is Founder/COO, not CEO — included as Founder. All others are CEO/Co-Founder/President level. Draft IDs: r8361984309636508041 (Renovation Brands), r326077106078738984 (GODIRECTINC), r-1382766044432622397 (VanMoof), r8530914403808225296 (SOBRsafe), r-2915354715263471282 (Skinnydip), r-2820412916786394905 (Frontpoint), r-6128762185046853627 (SUBPAC), r-439826946233532493 (Ozlo), r2030409639772424901 (Cymbiotika), r8769911223601208536 (Boosted Commerce). Summary draft created for winslinger@gmail.com (subject: "outreach ready", draft ID: r2800552665589923639).
+
+## 2026-07-09 — 10 drafts created
+Leads drafted:
+1. Phoebe Simmonds | the memo | Touch 1 | Mouse Trap (phoebe@thememo.com.au)
+2. Richard Gold | Skinnydip London | Touch 1 | Mouse Trap (richard.gold@skinnydiplondon.com)
+3. Ted Hilling | Skin Authority | Touch 1 | Mouse Trap (tedh@skinauthority.com)
+4. Peter Hewitt | FreshCut Paper | Touch 1 | QVC (peter@freshcutpaper.com)
+5. Selina Russell | Cheeky Rascals | Touch 1 | Mouse Trap (selina@cheekyrascals.co.uk)
+6. Stefan Chmelik | Sensate | Touch 1 | Mouse Trap (stefan@getsensate.com)
+7. Joshua Armstrong | We the Wild Plant Care | Touch 1 | QVC (josh@wethewild.co)
+8. Rachel Dash | StoreBound | Touch 1 | Mouse Trap (rachel@storebound.com)
+9. Vanessa Contreras | McRoskey Mattress | Touch 1 | Mouse Trap (vanessa@mcroskeysf.com)
+10. Mandrea Weber | Fancii | Touch 1 | Mouse Trap (mandrea@fancii.com)
+Inbox replies found: None in last 30 days (full inbox scan completed). Bryan Crisfield (bryan@crislu.com / Crislu) replied 2026-05-09, now 61 days old — outside 30-day scan window. Find in All Mail at subject "RE: jewelry content". Reply still needed.
+Total drafted: 10
+Note: Lead pool is running critically thin on uncontacted CEO/Founder-level leads. Today's 10 are primarily second contacts at companies where the main CEO/Founder was already drafted in a prior run. Anant must update lead-queue.csv with actual sent statuses to unlock Touch 2+ cadences — without that, the routine cannot identify follow-up leads due for next touch and will continue pulling from a near-exhausted pending pool. Draft IDs: r4365746902015557768 (the memo), r-5882395818795655849 (Skinnydip), r5473644220792767996 (Skin Authority), r471001916278025038 (FreshCut Paper), r-385316351821072345 (Cheeky Rascals), r-5977788396344579886 (Sensate), r-2849336461619362089 (We the Wild), r4617425559520362320 (StoreBound), r-61338278715493745 (McRoskey Mattress), r-7733562364917127578 (Fancii). Summary draft created for winslinger@gmail.com (subject: "outreach ready — 2026-07-09", draft ID: r-4026759192944287267).
