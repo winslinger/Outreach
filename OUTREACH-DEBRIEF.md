@@ -81,8 +81,9 @@ Never ask for a call in email 1. Always low-friction curiosity:
 
 ### Core Rules
 - Write like a peer practitioner, not a vendor
-- Open line must be about THEM — an observation connected to the problem
-- "We made this for [similar brand]" beats "We offer AI production services"
+- Opening line must come from ACTUAL research on that brand — something you only know from looking at them. Not a generic industry pain point.
+- Lead with OUTCOME (lower CAC, more sales, more content at scale) — not METHOD (AI-powered production)
+- "You're leaving ROAS on the table" beats "We make AI-powered content"
 - Show the outcome, don't list features
 - Every sentence must earn its place
 - Read it aloud — if it sounds like marketing copy, rewrite it
@@ -90,19 +91,34 @@ Never ask for a call in email 1. Always low-friction curiosity:
 
 ### Email Structure
 ```
-Subject: [2-4 words, lowercase, internal-looking]
+Subject: [2-4 words, lowercase — specific to brand or their situation]
 
-[Opening — observation about them connected to the problem]
-[1-2 sentences — pain / situation they're likely in]
-[1 sentence — TC's solution + one proof point]
+[Opening — specific observation from actual research on THAT brand]
+[1-2 sentences — what that gap costs them: wasted budget, thin ROAS, content falling short]
+[TC as the fix — outcome first. Proof with specifics.]
 [One low-friction CTA]
 
 Anant
 ```
 
+### Outcome vs Method Framing
+
+| Don't say (method) | Say instead (outcome) |
+|---|---|
+| "We make AI-powered content" | "More content than a shoot budget can afford" |
+| "AI at every stage of production" | "20 environments, one brief, delivered in a week" |
+| "Same quality as a studio shoot" | "8 campaign videos for a premium furniture brand in 10 days" |
+| "AI photo and video production" | "Lower CAC, more creative to test, no location shoots" |
+
+### ZinCuTec Proof Point — Use This Specific Version
+"Just wrapped 8 campaign videos for a premium German furniture brand — Mediterranean interiors, warm light, cinematic quality — delivered in 10 days. Entirely with AI."
+
+Shorter version: "8 campaign videos for a premium furniture brand, 10 days, Aman-level quality — entirely with AI."
+
 ### Hard Rules
 - Subject: 2-4 words, lowercase, no name, no salesy words
 - Body: max 100 words. Often less.
+- No em dashes (—) anywhere in the email body. Use a comma or period.
 - No "I hope this email finds you well"
 - No "My name is Anant and I..."
 - No feature lists
@@ -183,6 +199,7 @@ Best for: multi-email sequences. Each element developed across separate touches.
 ## SUBJECT LINE RULES
 
 - 2-4 words. Lowercase. No punctuation tricks.
+- Specific to their brand or their situation — not a generic category word.
 - Look internal — like it came from a colleague, not a vendor.
 - **Never** put product pitch, urgency, emojis, or prospect's first name in subject.
 
@@ -193,7 +210,18 @@ Best for: multi-email sequences. Each element developed across separate touches.
 - Salesy language = -17.9% opens
 - Numbers/percentages = -46% opens
 
-**High-performing examples:** "reply rates" · "content costs" · "Q2 ads" · "production volume" · "seasonal shoots" · "ad content" · "quick look"
+**Three subject line buckets to rotate through:**
+
+1. **Brand-specific** (references their company or product directly):
+   `skinnydip content` · `your product shoots` · `vanmoof content` · `[brand] ads`
+
+2. **Observation-based** (sounds like you noticed something):
+   `saw your page` · `saw your spring campaign` · `your shoot budget`
+
+3. **Curiosity/peer** (short, no-pitch energy):
+   `quick question` · `quick q` · `content volume` · `worth a look`
+
+**Avoid:** Generic category words used as subjects — "ad creative", "lifestyle content", "wearable content" all read like cold outreach at a glance. Make it feel like you looked at them.
 
 ---
 
@@ -206,7 +234,7 @@ Best for: multi-email sequences. Each element developed across separate touches.
 | 3 | Role-level | Challenges specific to their seniority |
 | 4 | Individual (gold standard) | Specific, timely observation about that person connected to the problem |
 
-**Minimum for TC outreach: Level 3. Target Level 4 whenever possible.**
+**Minimum for TC outreach: Level 4. Always. The agent visits the brand website before writing.**
 
 ### Research Signal Stack
 - `keywords_short` → what they sell / brand angle → TC's relevant hook
