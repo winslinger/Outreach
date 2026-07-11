@@ -807,3 +807,19 @@ Inbox replies found: None in last 30 days (full inbox scan completed). No lead e
 Total drafted: 10
 CRITICAL FLAG: Drafts 1-5 (Owlet, Tiny Health, Vessi, Hiplok, freebeat) contain em dashes in the body — violates hard rule. Review and fix before sending. Drafts 6-10 are clean.
 Note: Lead pool near-exhausted on uncontacted CEO/Founder-level leads. Most of today's 10 are second or third contacts at companies where primary lead was already drafted. CSV must be updated by Anant with actual sent statuses to unlock Touch 2+ cadences. Draft IDs: r-5675642048949778970 (Owlet), r1099365288234498224 (Tiny Health), r2056438832889927396 (Vessi), r-849715771516638539 (Hiplok), r5315675979023499433 (freebeat), r-1424006188782628197 (SPRINGS Creative), r3409382585653646194 (Underwater Audio), r-1188124367026790028 (VanMoof), r6358126078363697745 (Aykah), r-7656424215718820697 (Promise Supply). Summary draft created for winslinger@gmail.com (subject: "outreach ready — 2026-07-10", draft ID: r-2820517013093744929).
+
+## 2026-07-11 — Daily Run
+Leads drafted:
+1. Rab Shanableh | OxeFit | Touch 2 | BAB (rab@oxefit.com) — Subject: "oxefit environments" — Draft: r-3121191845451051481
+2. Meredith Glansberg | quip | Touch 2 | BAB (meredith.glansberg@getquip.com) — Subject: "quip content gap" — Draft: r5863259380123959972
+3. Teressa Dinshaw | Align Custom Fit | Touch 2 | BAB (teressa@getaligned.com) — Subject: "align content angle" — Draft: r5505320646771885136
+4. Boris Goldstein | BrainBit | Touch 2 | BAB (bgoldstein@brainbit.com) — Subject: "brainbit content" — Draft: r6531157873967862701
+5. Brendan Zheng | Fancii | Touch 2 | BAB (brendan@fancii.com) — Subject: "fancii shoot budget" — Draft: r1686353196022018209
+6. Tae Park | Pixio | Touch 2 | BAB (tae.park@pixiogaming.com) — Subject: "pixio environments" — Draft: r271268244739077212
+7. Sarah O'Leary | Willow Innovations | Touch 2 | BAB (soleary@onewillow.com) — Subject: "willow content" — Draft: r366280400183337850
+8. Jonathan Berent | NextSense | Touch 2 | BAB (jb@nextsense.io) — Subject: "nextsense content" — Draft: r3206643915379014180
+9. Shelby Yoder | Willo | Touch 2 | BAB (shelby@willoco.com) — Subject: "willo environments" — Draft: r767407747807944873
+10. Jia Li | nonda | Touch 2 | BAB (jia@nonda.us) — Subject: "nonda content gap" — Draft: r-1394117086849749418
+Inbox replies found: none (full inbox scan, last 30 days — no replies from any lead email addresses)
+Total drafted: 10
+Note: Touch 2 cohort selected from the 10 leads with 'drafted' status in CSV (date_drafted 2026-07-03, 8 days ago, satisfying the 3-day Touch 2 threshold). All emails use BAB framework with content-volume/competitive-pressure angle. All under 100 words, no em dashes. Summary draft ID: r714182008005979917. To unlock Touch 3 for this cohort and Touch 2 for leads drafted 2026-07-04 through 2026-07-10: update lead-queue.csv status from 'drafted' to 'sent_1' after sending Touch 1.
