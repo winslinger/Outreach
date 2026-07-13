@@ -839,3 +839,19 @@ Leads drafted:
 Inbox replies found: none (full inbox scan, last 30 days — no new replies from any lead email addresses; Alex Nowlin OOO from 2026-06-28 previously logged)
 Total drafted: 10
 Note: Touch 2 for the 2026-07-04 cohort (8 days since Touch 1, satisfying the 3-day threshold). All BAB framework, content-volume/competitive-pressure angle, all under 100 words, no em dashes. Summary draft ID: r7454845508445309227. Next action: Touch 3 (Star-Story-Solution) for the 2026-07-03 cohort due 2026-07-16 (5 days after their Touch 2 on 2026-07-11); Touch 2 for 2026-07-05 cohort also due soon.
+
+## 2026-07-13 — Daily Run
+Leads drafted:
+1. Chad Janis | Gruns | Touch 2 | BAB (chad@drinkgruns.com) — Subject: "gruns content volume" — Draft: r3167645141007049397
+2. Geoff Mackellar | EMOTIV | Touch 2 | BAB (geoff@emotiv.com) — Subject: "emotiv content scale" — Draft: r1324532234630044307
+3. Lestat McCree | Healf | Touch 2 | BAB (lestat@healf.com) — Subject: "healf ad creative" — Draft: r7225586007948764649
+4. Shizu Okusa | Apothekary | Touch 2 | BAB (shizu@apothekary.co) — Subject: "apothekary ad volume" — Draft: r-8240442827155645523
+5. Nick Torday | Bower Collective | Touch 2 | BAB (nick@bowercollective.com) — Subject: "bower content gap" — Draft: r9195591322131937244
+6. Kate Casey | the memo | Touch 2 | BAB (kate@thememo.com) — Subject: "the memo content" — Draft: r-2059107666339009484
+7. Cheryl Hoy | Tiny Health | Touch 2 | BAB (cheryl@tinyhealth.com) — Subject: "tiny health creative" — Draft: r5164272474929231462
+8. Micah Katz | Move | Touch 2 | BAB (micah@move.ai) — Subject: "move ad creative" — Draft: r6649639421866070923
+9. Grant Moulton | Pocket Radar | Touch 2 | BAB (grant@pocketradar.com) — Subject: "pocket radar content" — Draft: r-8071651120050023458
+10. Swarup Banerjee | FKA Brands (HoMedics) | Touch 2 | BAB (swarup@fkabrands.com) — Subject: "homedics content scale" — Draft: r3232395476955032529
+Inbox replies found: none (full inbox scan, last 30 days — no new replies from any lead email addresses; Alex Nowlin OOO from 2026-06-28 previously logged)
+Total drafted: 10
+Note: Touch 2 for the 2026-07-05 cohort (8 days since Touch 1, satisfying the 3-day threshold). All BAB framework, content-volume/competitive-pressure angle, all under 100 words, no em dashes. Summary draft ID: r5737597204736493802. Next action: Touch 2 for 2026-07-06 cohort due 2026-07-14; Touch 3 (Star-Story-Solution) for 2026-07-03 cohort due 2026-07-16.
