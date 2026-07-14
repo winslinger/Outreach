@@ -855,3 +855,19 @@ Leads drafted:
 Inbox replies found: none (full inbox scan, last 30 days — no new replies from any lead email addresses; Alex Nowlin OOO from 2026-06-28 previously logged)
 Total drafted: 10
 Note: Touch 2 for the 2026-07-05 cohort (8 days since Touch 1, satisfying the 3-day threshold). All BAB framework, content-volume/competitive-pressure angle, all under 100 words, no em dashes. Summary draft ID: r5737597204736493802. Next action: Touch 2 for 2026-07-06 cohort due 2026-07-14; Touch 3 (Star-Story-Solution) for 2026-07-03 cohort due 2026-07-16.
+
+## 2026-07-14 — Daily Run
+Leads drafted:
+1. Aman Advani | Ministry of Supply | Touch 2 | BAB (aman@ministryofsupply.com) — Subject: "ministry content gap" — Draft: r6405306168323587605
+2. Andrew Resnick | Blueprint | Touch 2 | BAB (andrew@bryanjohnson.com) — Subject: "blueprint creative pipeline" — Draft: r-8633154208640933838
+3. Varun Bhanot | MAGIC AI | Touch 2 | BAB (varun@magic.fit) — Subject: "magic content scale" — Draft: r-2176743952670224817
+4. Adam Smith | The Sill | Touch 2 | BAB (smith@thesill.com) — Subject: "the sill content" — Draft: r3438846254542248419
+5. Michael Krieger | Sunday Citizen | Touch 2 | BAB (michael@sundaycitizen.co) — Subject: "sunday citizen content" — Draft: r2240712913104920039
+6. Tony Tomas | TC Nutrition | Touch 2 | BAB (tony@tc-nutrition.com) — Subject: "supplement content volume" — Draft: r-1656001706031893964
+7. Matthew Salihi | Touch Biotechnology | Touch 2 | BAB (matt@touchaustralia.com.au) — Subject: "touch content scale" — Draft: r-83230105887273804
+8. Ahmet Yanik | Mavigadget | Touch 2 | BAB (ahmet@mavigadget.com) — Subject: "mavigadget content" — Draft: r-2457208532457706910
+9. Francesca Pezzutto | Baby Village | Touch 2 | BAB (francesca@babyvillage.com.au) — Subject: "baby village content" — Draft: r-7820679305226934876
+10. Rich Miller | Digitek | Touch 2 | BAB (rmiller@digitekshop.com) — Subject: "digitek content gap" — Draft: r-655368909754071512
+Inbox replies found: none (full inbox scan, last 30 days — no new replies from any lead email addresses; Alex Nowlin OOO from 2026-06-28 previously logged)
+Total drafted: 10
+Note: Touch 2 for the 2026-07-06 cohort (8 days since Touch 1, satisfying the 3-day threshold). All BAB framework, content-volume/competitive-pressure angle, all under 100 words, no em dashes. Summary draft ID: r5218701733359983716. Next action: Touch 2 for 2026-07-07 cohort due 2026-07-15; Touch 3 (Star-Story-Solution) for 2026-07-03 cohort due 2026-07-16.
