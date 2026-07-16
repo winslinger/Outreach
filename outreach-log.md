@@ -887,3 +887,19 @@ Leads drafted:
 Inbox replies found: none (full inbox scan, last 30 days — no new replies from any lead email addresses; Alex Nowlin OOO from 2026-06-28 previously logged)
 Total drafted: 10
 Note: Touch 2 for the 2026-07-06 cohort (8 days since Touch 1, satisfying the 3-day threshold). All BAB framework, content-volume/competitive-pressure angle, all under 100 words, no em dashes. Summary draft ID: r5218701733359983716. Next action: Touch 2 for 2026-07-07 cohort due 2026-07-15; Touch 3 (Star-Story-Solution) for 2026-07-03 cohort due 2026-07-16.
+
+## 2026-07-16 — Daily Run
+Leads drafted:
+1. Marc Sieger | Renovation Brands | Touch 2 | BAB (marc@renovationbrands.com) — Subject: "renovation content gap" — Draft: r-8299927990228777627
+2. Warren Liu | GODIRECTINC.COM | Touch 2 | BAB (warren@godirectinc.com) — Subject: "content at scale" — Draft: r4392269735420825816
+3. Eliott Wertheimer | VanMoof | Touch 2 | BAB (eliott.wertheimer@vanmoof.com) — Subject: "vanmoof content volume" — Draft: r-3042284200567814664
+4. David Gandini | SOBRsafe | Touch 2 | BAB (david.gandini@sobrsafe.com) — Subject: "sobrsafe content environments" — Draft: r3602697256604084726
+5. Gary Gold | Skinnydip London | Touch 2 | BAB (gary.gold@skinnydiplondon.com) — Subject: "skinnydip content volume" — Draft: r1424696195021232398
+6. Colin Mohamed | Frontpoint | Touch 2 | BAB (colin.mohamed@cpa.com) — Subject: "frontpoint content scale" — Draft: r8595330657683170697
+7. Gregory Fontaine | SUBPAC | Touch 2 | BAB (gregory.scotiniadis@subpac.com) — Subject: "subpac content gap" — Draft: r-6673654102212668565
+8. Charles Taylor | Ozlo | Touch 2 | BAB (charlie@ozlosleep.com) — Subject: "ozlo ad creative" — Draft: r1027177370269155826
+9. Durana Elmi | Cymbiotika | Touch 2 | BAB (durana@cymbiotika.com) — Subject: "cymbiotika ad fatigue" — Draft: r-1933544395361645732
+10. Charlie Chanaratsopon | Boosted Commerce | Touch 2 | BAB (charlie@boostedcommerce.com) — Subject: "portfolio content scale" — Draft: r1665590017358997804
+Inbox replies found: none (full scan across all lead cohort domains, last 30 days)
+Total drafted: 10
+Note: Touch 2 for the 2026-07-08 cohort (8 days since Touch 1, was 5 days overdue). All BAB framework, content-volume/competitive-pressure angle, all under 100 words, no em dashes. ** VERIFY BEFORE SENDING: Colin Mohamed email (colin.mohamed@cpa.com) domain looks like a CPA firm, not Frontpoint — confirm correct address. Gregory Fontaine (SUBPAC) contact name differs from email surname (Fontaine vs Scotiniadis) — verify before sending. ** Summary draft ID: r-3899323170968424636. Next actions: Touch 3 (Star-Story-Solution) for 2026-07-03 cohort (due today, runs tomorrow); Touch 2 for 2026-07-09 cohort (4 days overdue); Touch 2 for 2026-07-10 cohort (3 days overdue).
