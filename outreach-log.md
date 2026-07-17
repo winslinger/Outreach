@@ -888,6 +888,22 @@ Inbox replies found: none (full inbox scan, last 30 days — no new replies from
 Total drafted: 10
 Note: Touch 2 for the 2026-07-06 cohort (8 days since Touch 1, satisfying the 3-day threshold). All BAB framework, content-volume/competitive-pressure angle, all under 100 words, no em dashes. Summary draft ID: r5218701733359983716. Next action: Touch 2 for 2026-07-07 cohort due 2026-07-15; Touch 3 (Star-Story-Solution) for 2026-07-03 cohort due 2026-07-16.
 
+## 2026-07-17 — Daily Run
+Leads drafted:
+1. Phoebe Simmonds | the memo | Touch 2 | BAB (phoebe@thememo.com.au) — Subject: "the memo ad creative" — Draft: r-5918810818577388735
+2. Richard Gold | Skinnydip London | Touch 2 | BAB (richard.gold@skinnydiplondon.com) — Subject: "skinnydip content volume" — Draft: r-6659194194565920582
+3. Ted Hilling | Skin Authority | Touch 2 | BAB (tedh@skinauthority.com) — Subject: "skin authority creative" — Draft: r-275637405632336188
+4. Peter Hewitt | FreshCut Paper | Touch 2 | BAB (peter@freshcutpaper.com) — Subject: "freshcut creative volume" — Draft: r-7513601977652871274
+5. Selina Russell | Cheeky Rascals | Touch 2 | BAB (selina@cheekyrascals.co.uk) — Subject: "cheeky rascals content" — Draft: r8639092550759702263
+6. Stefan Chmelik | Sensate | Touch 2 | BAB (stefan@getsensate.com) — Subject: "sensate content gap" — Draft: r8561284353879801501
+7. Joshua Armstrong | We the Wild Plant Care | Touch 2 | BAB (josh@wethewild.co) — Subject: "we the wild content" — Draft: r5005916315631018278
+8. Rachel Dash | StoreBound | Touch 2 | BAB (rachel@storebound.com) — Subject: "storebound content library" — Draft: r3041343006515472805
+9. Vanessa Contreras | McRoskey Mattress | Touch 2 | BAB (vanessa@mcroskeysf.com) — Subject: "mcroskey creative" — Draft: r-3458526422041174341
+10. Mandrea Weber | Fancii | Touch 2 | BAB (mandrea@fancii.com) — Subject: "fancii ad volume" — Draft: r37187047612358270
+Inbox replies found: none
+Total drafted: 10
+Note: Touch 2 for 2026-07-09 cohort (5 days overdue). All BAB framework, content-volume/competitive-pressure angle, under 100 words, no em dashes. BOUNCE ALERTS from previous sends: chad@drinkgruns.com (Gruns) PERMANENT failure — domain not found; micah@move.ai (Move) PERMANENT failure — address not found; swarup@fkabrands.com (FKA Brands/HoMedics) PERMANENT failure — address not found; madeeha@hapbee.com (Hapbee) PERMANENT failure — address not found. kate@thememo.com (the memo) — TEMPORARY delay from yesterday's 2026-07-16 send, Gmail retrying 45 more hours. Summary draft ID: r-1729364939310811682. Next actions: Touch 2 for 2026-07-10 cohort (4 days overdue); Touch 3 (Star-Story-Solution) for 2026-07-03 cohort (1 day overdue); Touch 3 for 2026-07-04 cohort (due today).
+
 ## 2026-07-16 — Daily Run
 Leads drafted:
 1. Marc Sieger | Renovation Brands | Touch 2 | BAB (marc@renovationbrands.com) — Subject: "renovation content gap" — Draft: r-8299927990228777627
