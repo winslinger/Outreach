@@ -919,3 +919,19 @@ Leads drafted:
 Inbox replies found: none (full scan across all lead cohort domains, last 30 days)
 Total drafted: 10
 Note: Touch 2 for the 2026-07-08 cohort (8 days since Touch 1, was 5 days overdue). All BAB framework, content-volume/competitive-pressure angle, all under 100 words, no em dashes. ** VERIFY BEFORE SENDING: Colin Mohamed email (colin.mohamed@cpa.com) domain looks like a CPA firm, not Frontpoint — confirm correct address. Gregory Fontaine (SUBPAC) contact name differs from email surname (Fontaine vs Scotiniadis) — verify before sending. ** Summary draft ID: r-3899323170968424636. Next actions: Touch 3 (Star-Story-Solution) for 2026-07-03 cohort (due today, runs tomorrow); Touch 2 for 2026-07-09 cohort (4 days overdue); Touch 2 for 2026-07-10 cohort (3 days overdue).
+
+## 2026-07-18 — Daily Run
+Leads drafted:
+1. Tae Park | Pixio | Touch 3 | Star-Story-Solution (tae.park@pixiogaming.com) — Subject: "a brand like pixio" — Draft: r3587320215884794376
+2. Sarah O'Leary | Willow Innovations | Touch 3 | Star-Story-Solution (soleary@onewillow.com) — Subject: "a brand like willow" — Draft: r8621129006105656087
+3. Jonathan Berent | NextSense | Touch 3 | Star-Story-Solution (jb@nextsense.io) — Subject: "a brand like nextsense" — Draft: r-2272692241128907777
+4. Shelby Yoder | Willo | Touch 3 | Star-Story-Solution (shelby@willoco.com) — Subject: "a brand like willo" — Draft: r3830143371638297141
+5. Jia Li | nonda | Touch 3 | Star-Story-Solution (jia@nonda.us) — Subject: "a brand like nonda" — Draft: r7340551490290410238
+6. Teressa Dinshaw | Align Custom Fit | Touch 3 | Star-Story-Solution (teressa@getaligned.com) — Subject: "a brand like align" — Draft: r-1564486041642719556
+7. Boris Goldstein | BrainBit | Touch 3 | Star-Story-Solution (bgoldstein@brainbit.com) — Subject: "a brand like brainbit" — Draft: r-2085655168355120924
+8. Brendan Zheng | Fancii | Touch 3 | Star-Story-Solution (brendan@fancii.com) — Subject: "a brand like fancii" — Draft: r-1800985685713589449
+9. Meredith Glansberg | quip | Touch 3 | Star-Story-Solution (meredith.glansberg@getquip.com) — Subject: "a brand like quip" — Draft: r-5246765709921934493
+10. Rab Shanableh | OxeFit | Touch 3 | Star-Story-Solution (rab@oxefit.com) — Subject: "a brand like oxefit" — Draft: r-2460794456470284551
+Inbox replies found: none (full inbox scan + targeted lead domain search, last 30 days — no genuine replies from any leads)
+Total drafted: 10
+Note: Touch 3 (Star-Story-Solution) for 2026-07-03 cohort (2 days overdue). All emails use peer-story proof frame: D2C brand, 8 environments, 10 days with AI, mapped to each lead's specific product use contexts. All under 100 words, no em dashes. Delivery updates: kate@thememo.com temporary delay still active (21 hours remaining per Gmail); permanent bounces for chad@drinkgruns.com, micah@move.ai, swarup@fkabrands.com, madeeha@hapbee.com already logged 2026-07-17. Summary draft ID: r1721453182843447572. Next actions: Touch 3 for 2026-07-04 cohort (1 day overdue, 10 leads); Touch 3 for 2026-07-05 cohort (due today, 10 leads); Touch 2 for 2026-07-10 cohort (5 days overdue, 10 leads).
