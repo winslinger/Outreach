@@ -935,3 +935,19 @@ Leads drafted:
 Inbox replies found: none (full inbox scan + targeted lead domain search, last 30 days — no genuine replies from any leads)
 Total drafted: 10
 Note: Touch 3 (Star-Story-Solution) for 2026-07-03 cohort (2 days overdue). All emails use peer-story proof frame: D2C brand, 8 environments, 10 days with AI, mapped to each lead's specific product use contexts. All under 100 words, no em dashes. Delivery updates: kate@thememo.com temporary delay still active (21 hours remaining per Gmail); permanent bounces for chad@drinkgruns.com, micah@move.ai, swarup@fkabrands.com, madeeha@hapbee.com already logged 2026-07-17. Summary draft ID: r1721453182843447572. Next actions: Touch 3 for 2026-07-04 cohort (1 day overdue, 10 leads); Touch 3 for 2026-07-05 cohort (due today, 10 leads); Touch 2 for 2026-07-10 cohort (5 days overdue, 10 leads).
+
+## 2026-07-19 — Daily Run
+Leads drafted:
+1. Kurt Workman | Owlet Baby Care | Touch 2 | BAB (kworkman@owletcare.com) — "owlet after dark" — r-1239929388495742093
+2. Donald Koo | Tiny Health | Touch 2 | BAB (donald@tinyhealth.com) — "tiny health vs the market" — r-1234861958266649940
+3. Tony Yu | Vessi | Touch 2 | BAB (tony@vessi.com) — "vessi content volume" — r-400609828686850327
+4. John Abrahams | Hiplok | Touch 2 | BAB (j.abrahams@hiplok.com) — "hiplok at point of decision" — r4735868376018996513
+5. Abby Zhu | freebeat | Touch 2 | BAB (abby.zhu@freebrio.com) — "freebeat vs peloton" — r1881426046919834981
+6. Derick Close | SPRINGS Creative | Touch 2 | BAB (derick.close@springscreative.com) — "springs creative content gap" — r5367741960120915592
+7. Scott Walker | Underwater Audio | Touch 2 | BAB (scott@underwateraudio.com) — "underwater audio visibility" — r4433896977341203206
+8. Juliet Douglas | VanMoof | Touch 2 | BAB (dj@vanmoof.com) — "vanmoof vs cowboy" — r3273784499763651271
+9. Sanya Salehani | Aykah | Touch 2 | BAB (sanyasalehani@aykah.ca) — "aykah room reveals" — r8030934789088050544
+10. David King | Promise Supply | Touch 2 | BAB (david@promisesupply.ca) — "promise supply content" — r3984107853581606259
+Inbox replies found: none genuine. Alex Nowlin (USCAPE) OOO from 2026-06-28 still in inbox (previously logged). Bryan Crisfield reply from 2026-05-09 outside 30-day window, find in All Mail at "RE: jewelry content."
+Total drafted: 10
+Note: Priority selection was 2026-07-10 cohort Touch 2 (6 days overdue, most urgent). All emails BAB framework, content-volume/competitive-pressure angle, under 100 words, no em dashes. Summary draft ID: r1576232544980829360. Overdue pipeline still outstanding: Touch 3 for 2026-07-04 cohort (2 days overdue), Touch 3 for 2026-07-05 cohort (1 day overdue, 7 valid leads after 3 bounces), Touch 3 for 2026-07-06 cohort (due today).
