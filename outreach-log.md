@@ -951,3 +951,19 @@ Leads drafted:
 Inbox replies found: none genuine. Alex Nowlin (USCAPE) OOO from 2026-06-28 still in inbox (previously logged). Bryan Crisfield reply from 2026-05-09 outside 30-day window, find in All Mail at "RE: jewelry content."
 Total drafted: 10
 Note: Priority selection was 2026-07-10 cohort Touch 2 (6 days overdue, most urgent). All emails BAB framework, content-volume/competitive-pressure angle, under 100 words, no em dashes. Summary draft ID: r1576232544980829360. Overdue pipeline still outstanding: Touch 3 for 2026-07-04 cohort (2 days overdue), Touch 3 for 2026-07-05 cohort (1 day overdue, 7 valid leads after 3 bounces), Touch 3 for 2026-07-06 cohort (due today).
+
+## 2026-07-20 — Daily Run
+Leads drafted:
+1. Mikaella Go | Vessi | Touch 3 | Star-Story-Solution (mikaella@vessi.com) — "a brand like vessi" — r6057203965688523004
+2. Peter Ruppe | Avelo | Touch 3 | Star-Story-Solution (peter@avelorunning.com) — "a brand like avelo" — r3096475308887219577
+3. Ram Gurumoorthy | StimScience | Touch 3 | Star-Story-Solution (ram@stimscience.com) — "a brand like stimscience" — r-6661900696285247527
+4. Jake Wadsworth | HydroJug | Touch 3 | Star-Story-Solution (jake@thehydrojug.com) — "a brand like hydrojug" — r4084032221316670978
+5. Kevin McDonnell | Oricom International | Touch 3 | Star-Story-Solution (kevinmcdonnell@oricom.com.au) — "a brand like oricom" — r-4312346021872181495
+6. Louise Doyle | needi | Touch 3 | Star-Story-Solution (louise@needi.co.uk) — "a brand like needi" — r5269155040020580293
+7. Alison Carroll | Wonder Valley | Touch 3 | Star-Story-Solution (alison@welcometowondervalley.com) — "a brand like wonder valley" — r5306581258307810961
+8. Fiona Yu | Viva Naturals | Touch 3 | Star-Story-Solution (fiona@vivanaturals.com) — "a brand like viva naturals" — r2098605714722157590
+9. Andrew Sandbrook | CPR Global Technology | Touch 3 | Star-Story-Solution (andrew.sandbrook@cprglobaltech.com) — "a brand like cprglobal" — r6599638383297536587
+10. Luca Ranaldi | Found | Touch 3 | Star-Story-Solution (luca@joinfound.com) — "a brand like found" — r-5156469374270593470
+Inbox replies found: none (full scan across all recent cohort domains, last 30 days)
+Total drafted: 10
+Note: Touch 3 for 2026-07-04 cohort (3 days overdue, highest priority). All Star-Story-Solution framework, peer-brand proof angle mapped to each brand's product type, ZinCuTec 8-video/10-day proof point embedded, all under 100 words, no em dashes. Summary draft ID: r1650852548431953157. Overdue pipeline still outstanding: Touch 3 for 2026-07-05 cohort (3 days overdue, 7 valid leads), Touch 3 for 2026-07-06 cohort (2 days overdue), Touch 3 for 2026-07-07 cohort (1 day overdue). Touch 4 for 2026-07-03 cohort due 2026-07-25.
