@@ -967,3 +967,19 @@ Leads drafted:
 Inbox replies found: none (full scan across all recent cohort domains, last 30 days)
 Total drafted: 10
 Note: Touch 3 for 2026-07-04 cohort (3 days overdue, highest priority). All Star-Story-Solution framework, peer-brand proof angle mapped to each brand's product type, ZinCuTec 8-video/10-day proof point embedded, all under 100 words, no em dashes. Summary draft ID: r1650852548431953157. Overdue pipeline still outstanding: Touch 3 for 2026-07-05 cohort (3 days overdue, 7 valid leads), Touch 3 for 2026-07-06 cohort (2 days overdue), Touch 3 for 2026-07-07 cohort (1 day overdue). Touch 4 for 2026-07-03 cohort due 2026-07-25.
+
+## 2026-07-21 — Daily Run
+Leads drafted:
+1. Geoff Mackellar | EMOTIV | Touch 3 | Star-Story-Solution (geoff@emotiv.com) — "a brand like emotiv" — r-7337239338496089845
+2. Lestat McCree | Healf | Touch 3 | Star-Story-Solution (lestat@healf.com) — "a brand like healf" — r7275129647528314921
+3. Shizu Okusa | Apothekary | Touch 3 | Star-Story-Solution (shizu@apothekary.co) — "a brand like apothekary" — r-530348727718253041
+4. Nick Torday | Bower Collective | Touch 3 | Star-Story-Solution (nick@bowercollective.com) — "a brand like bower" — r8734733966700508530
+5. Kate Casey | the memo | Touch 3 | Star-Story-Solution (kate@thememo.com) — "a brand like the memo" — r-6721431271030207268
+6. Cheryl Hoy | Tiny Health | Touch 3 | Star-Story-Solution (cheryl@tinyhealth.com) — "a brand like tiny health" — r-1655542600118261530
+7. Grant Moulton | Pocket Radar | Touch 3 | Star-Story-Solution (grant@pocketradar.com) — "a brand like pocket radar" — r8540685452284595306
+8. Aman Advani | Ministry of Supply | Touch 3 | Star-Story-Solution (aman@ministryofsupply.com) — "a brand like ministry" — r4880165719738799817
+9. Andrew Resnick | Blueprint | Touch 3 | Star-Story-Solution (andrew@bryanjohnson.com) — "a brand like blueprint" — r-8762717684702303650
+10. Varun Bhanot | MAGIC AI | Touch 3 | Star-Story-Solution (varun@magic.fit) — "a brand like magic" — r1341146311902189421
+Inbox replies found: none (full inbox scan, last 30 days — no replies from any lead email addresses; all inbox traffic confirmed as newsletters, notifications, and personal email)
+Total drafted: 10
+Note: Leads 1-7 are from the 2026-07-05 cohort (Touch 3, 3 days overdue; 3 of 10 skipped as permanent bounces: chad@drinkgruns.com, micah@move.ai, swarup@fkabrands.com). Leads 8-10 are from the 2026-07-06 cohort (Touch 3, 2 days overdue). All Star-Story-Solution, peer-brand proof frame, ZinCuTec 8-video/10-day proof point, all under 100 words, no em dashes. Summary draft ID: r-8149236632020876885. Outstanding overdue pipeline: 2026-07-06 cohort remaining 7 leads (Touch 3), 2026-07-07 cohort 9 valid leads (Touch 3, 1 day overdue), 2026-07-08 cohort 10 leads (Touch 3, due today). Touch 4 (breakup) for 2026-07-03 cohort due 2026-07-25.
