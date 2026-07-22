@@ -983,3 +983,19 @@ Leads drafted:
 Inbox replies found: none (full inbox scan, last 30 days — no replies from any lead email addresses; all inbox traffic confirmed as newsletters, notifications, and personal email)
 Total drafted: 10
 Note: Leads 1-7 are from the 2026-07-05 cohort (Touch 3, 3 days overdue; 3 of 10 skipped as permanent bounces: chad@drinkgruns.com, micah@move.ai, swarup@fkabrands.com). Leads 8-10 are from the 2026-07-06 cohort (Touch 3, 2 days overdue). All Star-Story-Solution, peer-brand proof frame, ZinCuTec 8-video/10-day proof point, all under 100 words, no em dashes. Summary draft ID: r-8149236632020876885. Outstanding overdue pipeline: 2026-07-06 cohort remaining 7 leads (Touch 3), 2026-07-07 cohort 9 valid leads (Touch 3, 1 day overdue), 2026-07-08 cohort 10 leads (Touch 3, due today). Touch 4 (breakup) for 2026-07-03 cohort due 2026-07-25.
+
+## 2026-07-22 — Daily Run
+Leads drafted:
+1. Adam Smith | The Sill | Touch 3 | Star-Story-Solution (smith@thesill.com) — "a brand like the sill" — r-8314690130576795012
+2. Michael Krieger | Sunday Citizen | Touch 3 | Star-Story-Solution (michael@sundaycitizen.co) — "a brand like sunday citizen" — r1152906976830433894
+3. Tony Tomas | TC Nutrition | Touch 3 | Star-Story-Solution (tony@tc-nutrition.com) — "a brand like tc nutrition" — r3202761025987347861
+4. Matthew Salihi | Touch Biotechnology | Touch 3 | Star-Story-Solution (matt@touchaustralia.com.au) — "a brand like touch" — r3108256447560212410
+5. Ahmet Yanik | Mavigadget | Touch 3 | Star-Story-Solution (ahmet@mavigadget.com) — "a brand like mavigadget" — r-3946372577347409542
+6. Francesca Pezzutto | Baby Village | Touch 3 | Star-Story-Solution (francesca@babyvillage.com.au) — "a brand like baby village" — r-4078359789118139232
+7. Rich Miller | Digitek | Touch 3 | Star-Story-Solution (rmiller@digitekshop.com) — "a brand like digitek" — r-3965457788404735108
+8. Sean Smith | Zoe | Touch 3 | Star-Story-Solution (sean@zoebaby.com) — "a brand like zoe" — r1702412969230635197
+9. Bryony Rammell | AYBL | Touch 3 | Star-Story-Solution (b.hollier@beaybl.com) — "a brand like aybl" — r4529053789853887464
+10. Vicky Yang | MOFT | Touch 3 | Star-Story-Solution (vicky@moft.us) — "a brand like moft" — r-8767003784621689171
+Inbox replies found: none from lead-queue.csv leads. Alex Nowlin (USCAPE) OOO from 2026-06-28 still in inbox (previously logged). Alveta, IM8, Laneway the Label are Anant's separate manual outreach threads, not from the lead-queue system.
+Total drafted: 10
+Note: Leads 1-7 complete the 2026-07-06 cohort Touch 3 (previously 3 done 2026-07-21, now all 10 done). Leads 8-10 begin the 2026-07-07 cohort Touch 3. FLAGS: Sean Smith (Zoe, sean@zoebaby.com) was also drafted 2026-06-03 — check before sending. Bryony Rammell (AYBL) is Head of Brand Marketing, not CEO/Founder — Anant to decide. Summary draft ID: r-4400840472799308698. Still overdue: 2026-07-07 cohort 6 remaining (Touch 3), 2026-07-08 cohort 10 leads (Touch 3, 1 day overdue), 2026-07-09 cohort 10 leads (Touch 3, due today). Touch 4 (breakup) for 2026-07-03 cohort due 2026-07-25.
