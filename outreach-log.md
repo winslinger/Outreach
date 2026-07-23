@@ -999,3 +999,19 @@ Leads drafted:
 Inbox replies found: none from lead-queue.csv leads. Alex Nowlin (USCAPE) OOO from 2026-06-28 still in inbox (previously logged). Alveta, IM8, Laneway the Label are Anant's separate manual outreach threads, not from the lead-queue system.
 Total drafted: 10
 Note: Leads 1-7 complete the 2026-07-06 cohort Touch 3 (previously 3 done 2026-07-21, now all 10 done). Leads 8-10 begin the 2026-07-07 cohort Touch 3. FLAGS: Sean Smith (Zoe, sean@zoebaby.com) was also drafted 2026-06-03 — check before sending. Bryony Rammell (AYBL) is Head of Brand Marketing, not CEO/Founder — Anant to decide. Summary draft ID: r-4400840472799308698. Still overdue: 2026-07-07 cohort 6 remaining (Touch 3), 2026-07-08 cohort 10 leads (Touch 3, 1 day overdue), 2026-07-09 cohort 10 leads (Touch 3, due today). Touch 4 (breakup) for 2026-07-03 cohort due 2026-07-25.
+
+## 2026-07-23 — Daily Run
+Leads drafted:
+1. Mike Battat | iStore | Touch 3 | Star-Story-Solution (mike@istore.ca) — "a brand like istore" — r-7550498699870734566
+2. Samantha Freres | Wishing Well | Touch 3 | Star-Story-Solution (samantha@wishingwellwashing.com) — "a brand like wishing well" — r-4666572105948591721
+3. Alun Hindle | Medichecks | Touch 3 | Star-Story-Solution (alun.hindle@medichecks.com) — "a brand like medichecks" — r-2167349520273929792
+4. Charlie Hill | Harbor | Touch 3 | Star-Story-Solution (charlie@harbor.co) — "a brand like harbor" — r-9137025189431412713
+5. Benoit Lewden | iHeart | Touch 3 | Star-Story-Solution (ben@goiheart.com) — "a brand like iheart" — r6554836655140147605
+6. Amanda Liu | VEGAMOUR | Touch 3 | Star-Story-Solution (aliu@vegamour.com) — "a brand like vegamour" — r1547672580171025946
+7. Marc Sieger | Renovation Brands | Touch 3 | Star-Story-Solution (marc@renovationbrands.com) — "a brand like renovation" — r-2488766527053695545
+8. Warren Liu | GODIRECTINC.COM | Touch 3 | Star-Story-Solution (warren@godirectinc.com) — "a brand like godirect" — r-7953857950157930548
+9. Eliott Wertheimer | VanMoof | Touch 3 | Star-Story-Solution (eliott.wertheimer@vanmoof.com) — "a brand like vanmoof" — r7156335611849357265
+10. David Gandini | SOBRsafe | Touch 3 | Star-Story-Solution (david.gandini@sobrsafe.com) — "a brand like sobrsafe" — r-2290925993320546820
+Inbox replies found: none (full scan across all active lead cohorts, last 30 days)
+Total drafted: 10
+Note: Leads 1-6 complete the 2026-07-07 cohort Touch 3 (leads 8-10 were started 2026-07-22). Leads 7-10 begin the 2026-07-08 cohort Touch 3 (6 leads from that cohort remain: Gary Gold, Colin Mohamed, Gregory Fontaine, Charles Taylor, Durana Elmi, Charlie Chanaratsopon). 2026-07-09 cohort (10 leads) also overdue for Touch 3. Touch 4 (breakup) for 2026-07-03 cohort due 2026-07-25. Summary draft ID: r-4382516443892745814.
