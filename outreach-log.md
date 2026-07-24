@@ -1015,3 +1015,19 @@ Leads drafted:
 Inbox replies found: none (full scan across all active lead cohorts, last 30 days)
 Total drafted: 10
 Note: Leads 1-6 complete the 2026-07-07 cohort Touch 3 (leads 8-10 were started 2026-07-22). Leads 7-10 begin the 2026-07-08 cohort Touch 3 (6 leads from that cohort remain: Gary Gold, Colin Mohamed, Gregory Fontaine, Charles Taylor, Durana Elmi, Charlie Chanaratsopon). 2026-07-09 cohort (10 leads) also overdue for Touch 3. Touch 4 (breakup) for 2026-07-03 cohort due 2026-07-25. Summary draft ID: r-4382516443892745814.
+
+## 2026-07-24 — Daily Run
+Leads drafted:
+1. Gary Gold | Skinnydip London | Touch 3 | Star-Story-Solution (gary.gold@skinnydiplondon.com) — "a brand like skinnydip" — r2490690013751532267
+2. Colin Mohamed | Frontpoint | Touch 3 | Star-Story-Solution (colin.mohamed@cpa.com) — "a brand like frontpoint" — r2741159915481303297 — FLAG: email domain is cpa.com, not frontpoint.com
+3. Gregory Fontaine | SUBPAC | Touch 3 | Star-Story-Solution (gregory.scotiniadis@subpac.com) — "a brand like subpac" — r1592101249871185823 — FLAG: contact name (Fontaine) differs from email surname (Scotiniadis)
+4. Charles Taylor | Ozlo | Touch 3 | Star-Story-Solution (charlie@ozlosleep.com) — "a brand like ozlo" — r-6473498711472128992
+5. Durana Elmi | Cymbiotika | Touch 3 | Star-Story-Solution (durana@cymbiotika.com) — "a brand like cymbiotika" — r5241012630114918637
+6. Charlie Chanaratsopon | Boosted Commerce | Touch 3 | Star-Story-Solution (charlie@boostedcommerce.com) — "a brand like boosted" — r3997084563551128067
+7. Phoebe Simmonds | the memo | Touch 3 | Star-Story-Solution (phoebe@thememo.com.au) — "a brand like the memo" — r3241218001175772931
+8. Richard Gold | Skinnydip London | Touch 3 | Star-Story-Solution (richard.gold@skinnydiplondon.com) — "skinnydip at scale" — r-3312667326043023701
+9. Ted Hilling | Skin Authority | Touch 3 | Star-Story-Solution (tedh@skinauthority.com) — "a brand like skin authority" — r-4331940281667519952
+10. Peter Hewitt | FreshCut Paper | Touch 3 | Star-Story-Solution (peter@freshcutpaper.com) — "a brand like freshcut" — r6110466865289013826
+Inbox replies found: none (Alex Nowlin / USCAPE OOO from 2026-06-28 still in inbox — auto-reply only, previously logged; full scan across active cohort leads, last 30 days)
+Total drafted: 10
+Note: Leads 1-6 complete the 2026-07-08 cohort Touch 3. Leads 7-10 begin the 2026-07-09 cohort Touch 3 (6 from that cohort remain for tomorrow). FLAGS: Colin Mohamed email domain (cpa.com) still unverified; Gregory Fontaine/Scotiniadis name mismatch still unverified — verify both before sending. Touch 4 (breakup 1-2-3) for 2026-07-03 cohort due tomorrow 2026-07-25. Summary draft ID: r2549302260007089156.
