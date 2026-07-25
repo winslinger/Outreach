@@ -1016,6 +1016,22 @@ Inbox replies found: none (full scan across all active lead cohorts, last 30 day
 Total drafted: 10
 Note: Leads 1-6 complete the 2026-07-07 cohort Touch 3 (leads 8-10 were started 2026-07-22). Leads 7-10 begin the 2026-07-08 cohort Touch 3 (6 leads from that cohort remain: Gary Gold, Colin Mohamed, Gregory Fontaine, Charles Taylor, Durana Elmi, Charlie Chanaratsopon). 2026-07-09 cohort (10 leads) also overdue for Touch 3. Touch 4 (breakup) for 2026-07-03 cohort due 2026-07-25. Summary draft ID: r-4382516443892745814.
 
+## 2026-07-25 — Daily Run
+Leads drafted:
+1. Tae Park | Pixio | Touch 4 | Breakup (1-2-3) — r-3069010227411427257
+2. Sarah O'Leary | Willow Innovations | Touch 4 | Breakup (1-2-3) — r8920020838668001268
+3. Jonathan Berent | NextSense | Touch 4 | Breakup (1-2-3) — r3838420909939153758
+4. Shelby Yoder | Willo | Touch 4 | Breakup (1-2-3) — r-8525393515236033042
+5. Jia Li | nonda | Touch 4 | Breakup (1-2-3) — r-2551950021038222603
+6. Teressa Dinshaw | Align Custom Fit | Touch 4 | Breakup (1-2-3) — r-8460582488798107255
+7. Boris Goldstein | BrainBit | Touch 4 | Breakup (1-2-3) — r-7531910958600171775
+8. Brendan Zheng | Fancii | Touch 4 | Breakup (1-2-3) — r7704667700478629328
+9. Meredith Glansberg | quip | Touch 4 | Breakup (1-2-3) — r7778507534220500670
+10. Rab Shanableh | OxeFit | Touch 4 | Breakup (1-2-3) — r4033659176772464142
+Inbox replies found: none (full scan completed — no replies from any lead-queue addresses in last 30 days; Anant's manual outreach threads for Alveta and IM8 visible in inbox but not from lead-queue system; Alex Nowlin / USCAPE OOO from 2026-06-28 still in inbox, auto-reply only, previously logged)
+Total drafted: 10
+Note: Touch 4 (breakup 1-2-3) for the 2026-07-03 cohort, due today (7 days after Touch 3 on 2026-07-18). All subject "closing the loop", all under 35 words, no em dashes, 1-2-3 format. Summary draft ID: [to be added]. Next due: Touch 5 (final one-liner breakup) for this cohort on 2026-08-01. Also outstanding: 6 remaining Touch 3 drafts for 2026-07-09 cohort (Selina Russell, Stefan Chmelik, Joshua Armstrong, Rachel Dash, Vanessa Contreras, Mandrea Weber).
+
 ## 2026-07-24 — Daily Run
 Leads drafted:
 1. Gary Gold | Skinnydip London | Touch 3 | Star-Story-Solution (gary.gold@skinnydiplondon.com) — "a brand like skinnydip" — r2490690013751532267
