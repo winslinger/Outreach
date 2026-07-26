@@ -1032,6 +1032,22 @@ Inbox replies found: none (full scan completed — no replies from any lead-queu
 Total drafted: 10
 Note: Touch 4 (breakup 1-2-3) for the 2026-07-03 cohort, due today (7 days after Touch 3 on 2026-07-18). All subject "closing the loop", all under 35 words, no em dashes, 1-2-3 format. Summary draft ID: [to be added]. Next due: Touch 5 (final one-liner breakup) for this cohort on 2026-08-01. Also outstanding: 6 remaining Touch 3 drafts for 2026-07-09 cohort (Selina Russell, Stefan Chmelik, Joshua Armstrong, Rachel Dash, Vanessa Contreras, Mandrea Weber).
 
+## 2026-07-26 — Daily Run
+Leads drafted:
+1. Selina Russell | Cheeky Rascals | Touch 3 | Star-Story-Solution (selina@cheekyrascals.co.uk) — "a brand like cheeky rascals" — r3411803234713647157
+2. Stefan Chmelik | Sensate | Touch 3 | Star-Story-Solution (stefan@getsensate.com) — "a brand like sensate" — r-8519892889062128248
+3. Joshua Armstrong | We the Wild Plant Care | Touch 3 | Star-Story-Solution (josh@wethewild.co) — "a brand like we the wild" — r-8889680966533492157
+4. Rachel Dash | StoreBound | Touch 3 | Star-Story-Solution (rachel@storebound.com) — "a brand like storebound" — r-4017815868762191033
+5. Vanessa Contreras | McRoskey Mattress | Touch 3 | Star-Story-Solution (vanessa@mcroskeysf.com) — "a brand like mcroskey" — r3904327608140889096
+6. Mandrea Weber | Fancii | Touch 3 | Star-Story-Solution (mandrea@fancii.com) — "a brand like fancii" — r7018195104222073177
+7. Kurt Workman | Owlet Baby Care | Touch 3 | Star-Story-Solution (kworkman@owletcare.com) — "a brand like owlet" — r-7193583597579131052
+8. Donald Koo | Tiny Health | Touch 3 | Star-Story-Solution (donald@tinyhealth.com) — "a brand like tiny health" — r3264310131629004058
+9. Tony Yu | Vessi | Touch 3 | Star-Story-Solution (tony@vessi.com) — "a brand like vessi" — r3595731650758428761
+10. John Abrahams | Hiplok | Touch 3 | Star-Story-Solution (j.abrahams@hiplok.com) — "a brand like hiplok" — r-8053928086276318849
+Inbox replies found: none (full scan across all active cohort lead domains, last 30 days)
+Total drafted: 10
+Note: Leads 1-6 complete the 2026-07-09 cohort Touch 3. Leads 7-10 begin the 2026-07-10 cohort Touch 3 (6 remaining: Abby Zhu/freebeat, Derick Close/SPRINGS Creative, Scott Walker/Underwater Audio, Juliet Douglas/VanMoof, Sanya Salehani/Aykah, David King/Promise Supply). Next due: Touch 3 for remaining 2026-07-10 cohort (due tomorrow); Touch 4 (breakup) for 2026-07-04 cohort (due 2026-07-27, 7 days after Touch 3 on 2026-07-20). Summary draft ID: r-7083178625842490631.
+
 ## 2026-07-24 — Daily Run
 Leads drafted:
 1. Gary Gold | Skinnydip London | Touch 3 | Star-Story-Solution (gary.gold@skinnydiplondon.com) — "a brand like skinnydip" — r2490690013751532267
