@@ -1048,6 +1048,22 @@ Inbox replies found: none (full scan across all active cohort lead domains, last
 Total drafted: 10
 Note: Leads 1-6 complete the 2026-07-09 cohort Touch 3. Leads 7-10 begin the 2026-07-10 cohort Touch 3 (6 remaining: Abby Zhu/freebeat, Derick Close/SPRINGS Creative, Scott Walker/Underwater Audio, Juliet Douglas/VanMoof, Sanya Salehani/Aykah, David King/Promise Supply). Next due: Touch 3 for remaining 2026-07-10 cohort (due tomorrow); Touch 4 (breakup) for 2026-07-04 cohort (due 2026-07-27, 7 days after Touch 3 on 2026-07-20). Summary draft ID: r-7083178625842490631.
 
+## 2026-07-27 — Daily Run
+Leads drafted:
+1. Abby Zhu | freebeat | Touch 3 | Star-Story-Solution (abby.zhu@freebrio.com) — "a brand like freebeat" — r-1701032463343181836
+2. Derick Close | SPRINGS Creative | Touch 3 | Star-Story-Solution (derick.close@springscreative.com) — "a brand like springs" — r2735806970824268476
+3. Scott Walker | Underwater Audio | Touch 3 | Star-Story-Solution (scott@underwateraudio.com) — "a brand like underwater audio" — r841917682161212302
+4. Juliet Douglas | VanMoof | Touch 3 | Star-Story-Solution (dj@vanmoof.com) — "a brand like vanmoof" — r-3633701866166843022
+5. Sanya Salehani | Aykah | Touch 3 | Star-Story-Solution (sanyasalehani@aykah.ca) — "a brand like aykah" — r8449107447050326028
+6. David King | Promise Supply | Touch 3 | Star-Story-Solution (david@promisesupply.ca) — "a brand like promise supply" — r3572884642849068466
+7. Mikaella Go | Vessi | Touch 4 | Breakup (1-2-3) (mikaella@vessi.com) — "closing the loop" — r-363710028729074510
+8. Peter Ruppe | Avelo | Touch 4 | Breakup (1-2-3) (peter@avelorunning.com) — "closing the loop" — r-8302370657979034618
+9. Ram Gurumoorthy | StimScience | Touch 4 | Breakup (1-2-3) (ram@stimscience.com) — "closing the loop" — r-8495624443389198341
+10. Jake Wadsworth | HydroJug | Touch 4 | Breakup (1-2-3) (jake@thehydrojug.com) — "closing the loop" — r-4377124872780008345
+Inbox replies found: none (Alex Nowlin / USCAPE OOO from 2026-06-28 still in inbox, auto-reply only, previously logged; Anant's separate manual outreach threads visible — Alveta declined, IM8 partnership form redirect, Laneway auto-response — not lead-queue system)
+Total drafted: 10
+Note: Leads 1-6 complete the 2026-07-10 cohort Touch 3 (3 days overdue, prioritized). Leads 7-10 are first 4 of the 2026-07-04 cohort Touch 4 (Breakup, due today — 7 days after Touch 3 on 2026-07-20). Remaining 6 leads from 2026-07-04 cohort (Kevin McDonnell, Louise Doyle, Alison Carroll, Fiona Yu, Andrew Sandbrook, Luca Ranaldi) still need Touch 4 — due tomorrow. 2026-07-05 cohort Touch 4 also due 2026-07-28. Summary draft ID: r-3601108612323735653.
+
 ## 2026-07-24 — Daily Run
 Leads drafted:
 1. Gary Gold | Skinnydip London | Touch 3 | Star-Story-Solution (gary.gold@skinnydiplondon.com) — "a brand like skinnydip" — r2490690013751532267
