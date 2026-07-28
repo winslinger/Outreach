@@ -1079,3 +1079,19 @@ Leads drafted:
 Inbox replies found: none (Alex Nowlin / USCAPE OOO from 2026-06-28 still in inbox — auto-reply only, previously logged; full scan across active cohort leads, last 30 days)
 Total drafted: 10
 Note: Leads 1-6 complete the 2026-07-08 cohort Touch 3. Leads 7-10 begin the 2026-07-09 cohort Touch 3 (6 from that cohort remain for tomorrow). FLAGS: Colin Mohamed email domain (cpa.com) still unverified; Gregory Fontaine/Scotiniadis name mismatch still unverified — verify both before sending. Touch 4 (breakup 1-2-3) for 2026-07-03 cohort due tomorrow 2026-07-25. Summary draft ID: r2549302260007089156.
+
+## 2026-07-28 — Daily Run
+Leads drafted:
+1. Kevin McDonnell | Oricom International | Touch 4 | Breakup (1-2-3) (kevinmcdonnell@oricom.com.au) — "still here" — r-9177880381099893917
+2. Louise Doyle | needi | Touch 4 | Breakup (1-2-3) (louise@needi.co.uk) — "still here" — r-8193488536283532967
+3. Alison Carroll | Wonder Valley | Touch 4 | Breakup (1-2-3) (alison@welcometowondervalley.com) — "still here" — r3722070324007925849
+4. Fiona Yu | Viva Naturals | Touch 4 | Breakup (1-2-3) (fiona@vivanaturals.com) — "still here" — r-6131073198418340152
+5. Andrew Sandbrook | CPR Global Technology | Touch 4 | Breakup (1-2-3) (andrew.sandbrook@cprglobaltech.com) — "still here" — r651915978009562094
+6. Luca Ranaldi | Found | Touch 4 | Breakup (1-2-3) (luca@joinfound.com) — "still here" — r-3963947670100880261
+7. Geoff Mackellar | EMOTIV | Touch 4 | Breakup (1-2-3) (geoff@emotiv.com) — "still here" — r3621131675014084355
+8. Lestat McCree | Healf | Touch 4 | Breakup (1-2-3) (lestat@healf.com) — "still here" — r-2451653028297593088
+9. Shizu Okusa | Apothekary | Touch 4 | Breakup (1-2-3) (shizu@apothekary.co) — "still here" — r-896843547474078707
+10. Nick Torday | Bower Collective | Touch 4 | Breakup (1-2-3) (nick@bowercollective.com) — "still here" — r7818729866858558976
+Inbox replies found: none (full scan across all active cohort lead domains, last 30 days)
+Total drafted: 10
+Note: Leads 1-6 complete the 2026-07-04 cohort Touch 4 (1 day overdue; first 4 were drafted 2026-07-27). Leads 7-10 are first 4 of the 2026-07-05 cohort Touch 4 (due today). Remaining 3 from 2026-07-05 cohort (Kate Casey/the memo, Cheryl Hoy/Tiny Health, Grant Moulton/Pocket Radar) roll to tomorrow 2026-07-29. Summary draft ID: r8310521248282464291. Next due: 2026-07-29 — Touch 4 breakup for remaining 3 of 2026-07-05 cohort; 2026-08-01 — Touch 5 (final one-liner) for 2026-07-03 cohort (10 leads).
