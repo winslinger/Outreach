@@ -1095,3 +1095,19 @@ Leads drafted:
 Inbox replies found: none (full scan across all active cohort lead domains, last 30 days)
 Total drafted: 10
 Note: Leads 1-6 complete the 2026-07-04 cohort Touch 4 (1 day overdue; first 4 were drafted 2026-07-27). Leads 7-10 are first 4 of the 2026-07-05 cohort Touch 4 (due today). Remaining 3 from 2026-07-05 cohort (Kate Casey/the memo, Cheryl Hoy/Tiny Health, Grant Moulton/Pocket Radar) roll to tomorrow 2026-07-29. Summary draft ID: r8310521248282464291. Next due: 2026-07-29 — Touch 4 breakup for remaining 3 of 2026-07-05 cohort; 2026-08-01 — Touch 5 (final one-liner) for 2026-07-03 cohort (10 leads).
+
+## 2026-07-29 — Daily Run
+Leads drafted:
+1. Kate Casey | the memo | Touch 4 | Breakup (1-2-3) (kate@thememo.com) — "closing the loop" — r4299196088869659101
+2. Cheryl Hoy | Tiny Health | Touch 4 | Breakup (1-2-3) (cheryl@tinyhealth.com) — "closing the loop" — r4972938677759270030
+3. Grant Moulton | Pocket Radar | Touch 4 | Breakup (1-2-3) (grant@pocketradar.com) — "closing the loop" — r3728695511978915194
+4. Aman Advani | Ministry of Supply | Touch 4 | Breakup (1-2-3) (aman@ministryofsupply.com) — "closing the loop" — r-3364101374795433752
+5. Andrew Resnick | Blueprint | Touch 4 | Breakup (1-2-3) (andrew@bryanjohnson.com) — "closing the loop" — r-1165827279042694164
+6. Varun Bhanot | MAGIC AI | Touch 4 | Breakup (1-2-3) (varun@magic.fit) — "closing the loop" — r7591023191169271808
+7. Adam Smith | The Sill | Touch 4 | Breakup (1-2-3) (smith@thesill.com) — "closing the loop" — r-7020529707950116321
+8. Michael Krieger | Sunday Citizen | Touch 4 | Breakup (1-2-3) (michael@sundaycitizen.co) — "closing the loop" — r1296374709985818388
+9. Tony Tomas | TC Nutrition | Touch 4 | Breakup (1-2-3) (tony@tc-nutrition.com) — "closing the loop" — r-2536565549307331777
+10. Matthew Salihi | Touch Biotechnology | Touch 4 | Breakup (1-2-3) (matt@touchaustralia.com.au) — "closing the loop" — r-2231315657107937892
+Inbox replies found: none (full scan completed across all active cohort lead domains, last 30 days)
+Total drafted: 10
+Note: Leads 1-3 complete the 2026-07-05 cohort Touch 4 (rolled from 2026-07-28). Leads 4-6 are the 2026-07-06 sub-cohort Touch 4 (1 day overdue; Touch 3 on 2026-07-21). Leads 7-10 begin the 2026-07-06 sub-cohort Touch 4 (Touch 3 on 2026-07-22). Still due today rolling to tomorrow: Sean Smith/Zoe, Bryony Rammell/AYBL, Vicky Yang/MOFT (2026-07-07 cohort Touch 4, Touch 3 on 2026-07-22); Ahmet Yanik/Mavigadget, Francesca Pezzutto/Baby Village, Rich Miller/Digitek (2026-07-06 cohort, last 3). Summary draft ID: r3358397181446062680.
