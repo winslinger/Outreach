@@ -1127,3 +1127,19 @@ Leads drafted:
 Inbox replies found: none (full scan across all active cohort domains, last 30 days)
 Total drafted: 10
 Note: This completes the full 5-touch sequence for the 2026-07-03 cohort (T1: 2026-07-03, T2: 2026-07-11, T3: 2026-07-18, T4: 2026-07-25, T5: 2026-08-01). After sending, no further automated touches for these leads. Still overdue (from 2026-07-29 note): Touch 4 (breakup 1-2-3) for Sean Smith/Zoe, Bryony Rammell/AYBL, Vicky Yang/MOFT, Ahmet Yanik/Mavigadget, Francesca Pezzutto/Baby Village, Rich Miller/Digitek — to be drafted tomorrow. Summary draft ID: r704212720223262691.
+
+## 2026-08-02 — Daily Run
+Leads drafted:
+1. Sean Smith | Zoe | Touch 4 | Breakup (1-2-3) (sean@zoebaby.com) — "closing the loop" — r6307499579025297421
+2. Bryony Rammell | AYBL | Touch 4 | Breakup (1-2-3) (b.hollier@beaybl.com) — "closing the loop" — r-2771951542954623928
+3. Vicky Yang | MOFT | Touch 4 | Breakup (1-2-3) (vicky@moft.us) — "still here" — r100603485972889938
+4. Ahmet Yanik | Mavigadget | Touch 4 | Breakup (1-2-3) (ahmet@mavigadget.com) — "closing the loop" — r-4120909553042496023
+5. Francesca Pezzutto | Baby Village | Touch 4 | Breakup (1-2-3) (francesca@babyvillage.com.au) — "still here" — r9209134045605390951
+6. Rich Miller | Digitek | Touch 4 | Breakup (1-2-3) (rmiller@digitekshop.com) — "closing the loop" — r-9104504351642432841
+7. Mike Battat | iStore | Touch 4 | Breakup (1-2-3) (mike@istore.ca) — "closing the loop" — r6714577245995885167
+8. Samantha Freres | Wishing Well | Touch 4 | Breakup (1-2-3) (samantha@wishingwellwashing.com) — "still here" — r3950767511993994179
+9. Alun Hindle | Medichecks | Touch 4 | Breakup (1-2-3) (alun.hindle@medichecks.com) — "closing the loop" — r-569580707496178043
+10. Charlie Hill | Harbor | Touch 4 | Breakup (1-2-3) (charlie@harbor.co) — "still here" — r1456273723254790946
+Inbox replies found: none (full scan, last 30 days — no replies from any lead-queue addresses)
+Total drafted: 10
+Note: Leads 1-6 are from 2026-07-06/07 cohorts (Touch 3 on 2026-07-22, Touch 4 4 days overdue). Leads 7-10 are from 2026-07-07 cohort (Touch 3 on 2026-07-23, Touch 4 3 days overdue). FLAG: Bryony Rammell (AYBL, b.hollier@beaybl.com) is Head of Brand Marketing, not CEO/Founder — Anant to decide before sending. Touch 5 (final one-liner) for these leads due 7 days after send. Summary draft ID: r-8263878067140833163.
