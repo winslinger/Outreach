@@ -1143,3 +1143,19 @@ Leads drafted:
 Inbox replies found: none (full scan, last 30 days — no replies from any lead-queue addresses)
 Total drafted: 10
 Note: Leads 1-6 are from 2026-07-06/07 cohorts (Touch 3 on 2026-07-22, Touch 4 4 days overdue). Leads 7-10 are from 2026-07-07 cohort (Touch 3 on 2026-07-23, Touch 4 3 days overdue). FLAG: Bryony Rammell (AYBL, b.hollier@beaybl.com) is Head of Brand Marketing, not CEO/Founder — Anant to decide before sending. Touch 5 (final one-liner) for these leads due 7 days after send. Summary draft ID: r-8263878067140833163.
+
+## 2026-08-03 — Daily Run
+Leads drafted:
+1. Mikaella Go | Vessi | Touch 5 | Final breakup (one-liner) (mikaella@vessi.com) — "last note" — r2887182442751759496
+2. Peter Ruppe | Avelo | Touch 5 | Final breakup (one-liner) (peter@avelorunning.com) — "last note" — r-2852217765680536736
+3. Ram Gurumoorthy | StimScience | Touch 5 | Final breakup (one-liner) (ram@stimscience.com) — "last note" — r6853767137475073375
+4. Jake Wadsworth | HydroJug | Touch 5 | Final breakup (one-liner) (jake@thehydrojug.com) — "last note" — r-1185378903629668481
+5. Phoebe Simmonds | the memo | Touch 4 | Breakup (1-2-3) (phoebe@thememo.com.au) — "still here" — r-972312155238521677
+6. Richard Gold | Skinnydip London | Touch 4 | Breakup (1-2-3) (richard.gold@skinnydiplondon.com) — "closing the loop" — r4076147834507529866
+7. Ted Hilling | Skin Authority | Touch 4 | Breakup (1-2-3) (tedh@skinauthority.com) — "still here" — r-7384385325189727865
+8. Peter Hewitt | FreshCut Paper | Touch 4 | Breakup (1-2-3) (peter@freshcutpaper.com) — "closing the loop" — r-52111887361883420
+9. Kurt Workman | Owlet Baby Care | Touch 4 | Breakup (1-2-3) (kworkman@owletcare.com) — "still here" — r4614950524823889755
+10. Donald Koo | Tiny Health | Touch 4 | Breakup (1-2-3) (donald@tinyhealth.com) — "closing the loop" — r352748995360570620
+Inbox replies found: none (full scan, last 30 days — no replies from any lead-queue.csv addresses)
+Total drafted: 10
+Note: Leads 1-4 complete the full 5-touch sequence for the 2026-07-04 cohort first sub-batch (T4 on 2026-07-27, T5 due today). Leads 5-8 are the 2026-07-09 cohort first sub-batch (T3 on 2026-07-24, T4 3 days overdue). Leads 9-10 begin the 2026-07-10 cohort first sub-batch (T3 on 2026-07-26, T4 1 day overdue). Still due: T5 for 2026-07-04 cohort remaining 6 (Kevin McDonnell, Louise Doyle, Alison Carroll, Fiona Yu, Andrew Sandbrook, Luca Ranaldi) on 2026-08-04. T4 for 2026-07-09 cohort remaining 6 (Selina Russell, Stefan Chmelik, Joshua Armstrong, Rachel Dash, Vanessa Contreras, Mandrea Weber) and 2026-07-10 cohort remaining 8 (Tony Yu, John Abrahams, Abby Zhu, Derick Close, Scott Walker, Juliet Douglas, Sanya Salehani, David King) due imminently. Summary draft ID: r531646274235283731.
