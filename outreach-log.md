@@ -1159,3 +1159,19 @@ Leads drafted:
 Inbox replies found: none (full scan, last 30 days — no replies from any lead-queue.csv addresses)
 Total drafted: 10
 Note: Leads 1-4 complete the full 5-touch sequence for the 2026-07-04 cohort first sub-batch (T4 on 2026-07-27, T5 due today). Leads 5-8 are the 2026-07-09 cohort first sub-batch (T3 on 2026-07-24, T4 3 days overdue). Leads 9-10 begin the 2026-07-10 cohort first sub-batch (T3 on 2026-07-26, T4 1 day overdue). Still due: T5 for 2026-07-04 cohort remaining 6 (Kevin McDonnell, Louise Doyle, Alison Carroll, Fiona Yu, Andrew Sandbrook, Luca Ranaldi) on 2026-08-04. T4 for 2026-07-09 cohort remaining 6 (Selina Russell, Stefan Chmelik, Joshua Armstrong, Rachel Dash, Vanessa Contreras, Mandrea Weber) and 2026-07-10 cohort remaining 8 (Tony Yu, John Abrahams, Abby Zhu, Derick Close, Scott Walker, Juliet Douglas, Sanya Salehani, David King) due imminently. Summary draft ID: r531646274235283731.
+
+## 2026-08-04 — Daily Run
+Leads drafted:
+1. Selina Russell | Cheeky Rascals | Touch 4 | Breakup (1-2-3) (selina@cheekyrascals.co.uk) — "closing the loop" — r-808091750871716487
+2. Stefan Chmelik | Sensate | Touch 4 | Breakup (1-2-3) (stefan@getsensate.com) — "still here" — r-2416378346214468185
+3. Joshua Armstrong | We the Wild Plant Care | Touch 4 | Breakup (1-2-3) (josh@wethewild.co) — "closing the loop" — r-1096612284428327387
+4. Rachel Dash | StoreBound | Touch 4 | Breakup (1-2-3) (rachel@storebound.com) — "still here" — r-933985726481012004
+5. Vanessa Contreras | McRoskey Mattress | Touch 4 | Breakup (1-2-3) (vanessa@mcroskeysf.com) — "closing the loop" — r3825877049997378547
+6. Mandrea Weber | Fancii | Touch 4 | Breakup (1-2-3) (mandrea@fancii.com) — "still here" — r-196648299865869476
+7. Tony Yu | Vessi | Touch 4 | Breakup (1-2-3) (tony@vessi.com) — "closing the loop" — r-8348020907755392940
+8. John Abrahams | Hiplok | Touch 4 | Breakup (1-2-3) (j.abrahams@hiplok.com) — "still here" — r1288580613107727480
+9. Kevin McDonnell | Oricom International | Touch 5 | Final breakup (one-liner) (kevinmcdonnell@oricom.com.au) — "last note" — r4001208126896461064
+10. Louise Doyle | needi | Touch 5 | Final breakup (one-liner) (louise@needi.co.uk) — "last note" — r-6845542111586809891
+Inbox replies found: none (full scan across all active cohort lead domains, last 30 days)
+Total drafted: 10
+Note: Leads 1-8 are Touch 4 (breakup 1-2-3) — Leads 1-6 from the 2026-07-09 cohort (T3 on 2026-07-26, 2 days overdue); Leads 7-8 from the 2026-07-10 cohort (T3 on 2026-07-26, 2 days overdue). Leads 9-10 are Touch 5 (final one-liner) for the first 2 of 2026-07-04 cohort's remaining sub-batch (T4 on 2026-07-28, due today). Still due: T5 for remaining 4 of 2026-07-04 cohort (Alison Carroll, Fiona Yu, Andrew Sandbrook, Luca Ranaldi) — roll to tomorrow. T4 for remaining 6 of 2026-07-10 cohort (Abby Zhu, Derick Close, Scott Walker, Juliet Douglas, Sanya Salehani, David King — T3 on 2026-07-27, 2 days overdue) — tomorrow. Summary draft ID: r6453107194845647841.
