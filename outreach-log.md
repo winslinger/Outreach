@@ -1175,3 +1175,19 @@ Leads drafted:
 Inbox replies found: none (full scan across all active cohort lead domains, last 30 days)
 Total drafted: 10
 Note: Leads 1-8 are Touch 4 (breakup 1-2-3) — Leads 1-6 from the 2026-07-09 cohort (T3 on 2026-07-26, 2 days overdue); Leads 7-8 from the 2026-07-10 cohort (T3 on 2026-07-26, 2 days overdue). Leads 9-10 are Touch 5 (final one-liner) for the first 2 of 2026-07-04 cohort's remaining sub-batch (T4 on 2026-07-28, due today). Still due: T5 for remaining 4 of 2026-07-04 cohort (Alison Carroll, Fiona Yu, Andrew Sandbrook, Luca Ranaldi) — roll to tomorrow. T4 for remaining 6 of 2026-07-10 cohort (Abby Zhu, Derick Close, Scott Walker, Juliet Douglas, Sanya Salehani, David King — T3 on 2026-07-27, 2 days overdue) — tomorrow. Summary draft ID: r6453107194845647841.
+
+## 2026-08-05 — Daily Run
+Leads drafted:
+1. Alison Carroll | Wonder Valley | Touch 5 | Final breakup (one-liner) (alison@welcometowondervalley.com) — "last note" — r2491873988132175133
+2. Fiona Yu | Viva Naturals | Touch 5 | Final breakup (one-liner) (fiona@vivanaturals.com) — "last note" — r3756719596010270674
+3. Andrew Sandbrook | CPR Global Technology | Touch 5 | Final breakup (one-liner) (andrew.sandbrook@cprglobaltech.com) — "last note" — r2327544753096888617
+4. Luca Ranaldi | Found | Touch 5 | Final breakup (one-liner) (luca@joinfound.com) — "last note" — r-3688866378816195982
+5. Abby Zhu | freebeat | Touch 4 | Breakup (1-2-3) (abby.zhu@freebrio.com) — "still here" — r-3143665886135818799
+6. Derick Close | SPRINGS Creative | Touch 4 | Breakup (1-2-3) (derick.close@springscreative.com) — "closing the loop" — r-5079003265846839487
+7. Scott Walker | Underwater Audio | Touch 4 | Breakup (1-2-3) (scott@underwateraudio.com) — "still here" — r-6752523430013185022
+8. Juliet Douglas | VanMoof | Touch 4 | Breakup (1-2-3) (dj@vanmoof.com) — "closing the loop" — r1421573219520184954
+9. Sanya Salehani | Aykah | Touch 4 | Breakup (1-2-3) (sanyasalehani@aykah.ca) — "still here" — r-7474944710579260017
+10. David King | Promise Supply | Touch 4 | Breakup (1-2-3) (david@promisesupply.ca) — "closing the loop" — r981685549048749550
+Inbox replies found: none (full scan across all active cohort lead domains, last 30 days)
+Total drafted: 10
+Note: Leads 1-4 complete T5 for the remaining sub-batch of the 2026-07-04 cohort (T4 on 2026-07-28, 1 day overdue). Leads 5-10 complete T4 (breakup 1-2-3) for the remaining 6 of the 2026-07-10 cohort (T3 on 2026-07-27, 2 days overdue). Next due: T5 (final one-liner) for Tony Yu/Vessi and John Abrahams/Hiplok on 2026-08-11; T5 for 10 leads from 2026-07-06/07 cohorts (T4 on 2026-08-02) on 2026-08-09; T5 for Abby Zhu, Derick Close, Scott Walker, Juliet Douglas, Sanya Salehani, David King on 2026-08-12. Summary draft ID: r7432044571964820927.
