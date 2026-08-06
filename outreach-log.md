@@ -1191,3 +1191,19 @@ Leads drafted:
 Inbox replies found: none (full scan across all active cohort lead domains, last 30 days)
 Total drafted: 10
 Note: Leads 1-4 complete T5 for the remaining sub-batch of the 2026-07-04 cohort (T4 on 2026-07-28, 1 day overdue). Leads 5-10 complete T4 (breakup 1-2-3) for the remaining 6 of the 2026-07-10 cohort (T3 on 2026-07-27, 2 days overdue). Next due: T5 (final one-liner) for Tony Yu/Vessi and John Abrahams/Hiplok on 2026-08-11; T5 for 10 leads from 2026-07-06/07 cohorts (T4 on 2026-08-02) on 2026-08-09; T5 for Abby Zhu, Derick Close, Scott Walker, Juliet Douglas, Sanya Salehani, David King on 2026-08-12. Summary draft ID: r7432044571964820927.
+
+## 2026-08-06 — Daily Run
+Leads drafted:
+1. Geoff Mackellar | EMOTIV | Touch 5 | Final breakup (one-liner) (geoff@emotiv.com) — "closing the loop" — r2363146455190079644
+2. Lestat McCree | Healf | Touch 5 | Final breakup (one-liner) (lestat@healf.com) — "last note" — r587730953671871948
+3. Shizu Okusa | Apothekary | Touch 5 | Final breakup (one-liner) (shizu@apothekary.co) — "closing the loop" — r-6590440060563708751
+4. Nick Torday | Bower Collective | Touch 5 | Final breakup (one-liner) (nick@bowercollective.com) — "last note" — r-3294040786677414286
+5. Kate Casey | the memo | Touch 5 | Final breakup (one-liner) (kate@thememo.com) — "closing the loop" — r3590765097597722548
+6. Cheryl Hoy | Tiny Health | Touch 5 | Final breakup (one-liner) (cheryl@tinyhealth.com) — "last note" — r5187533860545777052
+7. Grant Moulton | Pocket Radar | Touch 5 | Final breakup (one-liner) (grant@pocketradar.com) — "closing the loop" — r1446041584706021581
+8. Aman Advani | Ministry of Supply | Touch 5 | Final breakup (one-liner) (aman@ministryofsupply.com) — "last note" — r-5081424970948710135
+9. Andrew Resnick | Blueprint | Touch 5 | Final breakup (one-liner) (andrew@bryanjohnson.com) — "closing the loop" — r7316553096930087658
+10. Varun Bhanot | MAGIC AI | Touch 5 | Final breakup (one-liner) (varun@magic.fit) — "last note" — r298594761445925618
+Inbox replies found: none (full scan — last 30 days, targeted across all active cohort lead domains + broad inbox scan; no replies from any lead-queue.csv addresses)
+Total drafted: 10
+Note: Leads 1-4 are from the 2026-07-05 cohort (T4 on 2026-07-28, T5 2 days overdue). Leads 5-10 are from the 2026-07-05/06 cohort (T4 on 2026-07-29, T5 1 day overdue). After sending, these sequences are complete. No further automated touches for any of these 10 leads. Next due: T5 for Sean Smith/Zoe, Bryony Rammell/AYBL, Vicky Yang/MOFT, Ahmet Yanik/Mavigadget, Francesca Pezzutto/Baby Village, Rich Miller/Digitek, Mike Battat/iStore, Samantha Freres/Wishing Well, Alun Hindle/Medichecks, Charlie Hill/Harbor (T4 on 2026-08-02) on 2026-08-09. T5 for Tony Yu/Vessi and John Abrahams/Hiplok on 2026-08-11. T5 for Abby Zhu/freebeat, Derick Close/SPRINGS Creative, Scott Walker/Underwater Audio, Juliet Douglas/VanMoof, Sanya Salehani/Aykah, David King/Promise Supply on 2026-08-12. Summary draft ID: r7645592590585940639.
