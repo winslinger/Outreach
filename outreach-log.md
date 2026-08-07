@@ -1207,3 +1207,19 @@ Leads drafted:
 Inbox replies found: none (full scan — last 30 days, targeted across all active cohort lead domains + broad inbox scan; no replies from any lead-queue.csv addresses)
 Total drafted: 10
 Note: Leads 1-4 are from the 2026-07-05 cohort (T4 on 2026-07-28, T5 2 days overdue). Leads 5-10 are from the 2026-07-05/06 cohort (T4 on 2026-07-29, T5 1 day overdue). After sending, these sequences are complete. No further automated touches for any of these 10 leads. Next due: T5 for Sean Smith/Zoe, Bryony Rammell/AYBL, Vicky Yang/MOFT, Ahmet Yanik/Mavigadget, Francesca Pezzutto/Baby Village, Rich Miller/Digitek, Mike Battat/iStore, Samantha Freres/Wishing Well, Alun Hindle/Medichecks, Charlie Hill/Harbor (T4 on 2026-08-02) on 2026-08-09. T5 for Tony Yu/Vessi and John Abrahams/Hiplok on 2026-08-11. T5 for Abby Zhu/freebeat, Derick Close/SPRINGS Creative, Scott Walker/Underwater Audio, Juliet Douglas/VanMoof, Sanya Salehani/Aykah, David King/Promise Supply on 2026-08-12. Summary draft ID: r7645592590585940639.
+
+## 2026-08-07 — Daily Run
+Leads drafted:
+1. Benoit Lewden | iHeart | Touch 4 | Breakup (1-2-3) — ben@goiheart.com — r3297279842257219737
+2. Amanda Liu | VEGAMOUR | Touch 4 | Breakup (1-2-3) — aliu@vegamour.com — r6576302257647330884
+3. Marc Sieger | Renovation Brands | Touch 4 | Breakup (1-2-3) — marc@renovationbrands.com — r8670759178300051396
+4. Warren Liu | GODIRECTINC.COM | Touch 4 | Breakup (1-2-3) — warren@godirectinc.com — r2647005455519947858
+5. Eliott Wertheimer | VanMoof | Touch 4 | Breakup (1-2-3) — eliott.wertheimer@vanmoof.com — r-6452186164846596422
+6. David Gandini | SOBRsafe | Touch 4 | Breakup (1-2-3) — david.gandini@sobrsafe.com — r3920717574906354559
+7. Gary Gold | Skinnydip London | Touch 4 | Breakup (1-2-3) — gary.gold@skinnydiplondon.com — r-8402502137253194899
+8. Colin Mohamed | Frontpoint | Touch 4 | Breakup (1-2-3) — colin.mohamed@cpa.com — r-4582043235190696038
+9. Gregory Fontaine | SUBPAC | Touch 4 | Breakup (1-2-3) — gregory.scotiniadis@subpac.com — r-8132213894837530612
+10. Charles Taylor | Ozlo | Touch 4 | Breakup (1-2-3) — charlie@ozlosleep.com — r-1977731524645240535
+Inbox replies found: none (full scan, last 30 days — no replies from any lead-queue.csv addresses)
+Total drafted: 10
+Note: All 10 are Touch 4 (breakup 1-2-3) for leads with T3 on 2026-07-23 or 2026-07-24, now 7-8 days overdue. FLAGS: Colin Mohamed email domain (cpa.com) unverified for Frontpoint — verify before sending. Gregory Fontaine/Scotiniadis name mismatch on SUBPAC email — verify before sending. Also still overdue: T4 for Durana Elmi (Cymbiotika, durana@cymbiotika.com) and Charlie Chanaratsopon (Boosted Commerce, charlie@boostedcommerce.com) — both T3 on 2026-07-24, carried to next run. Summary draft ID: r-2860525834557645992.
