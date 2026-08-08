@@ -1223,3 +1223,42 @@ Leads drafted:
 Inbox replies found: none (full scan, last 30 days — no replies from any lead-queue.csv addresses)
 Total drafted: 10
 Note: All 10 are Touch 4 (breakup 1-2-3) for leads with T3 on 2026-07-23 or 2026-07-24, now 7-8 days overdue. FLAGS: Colin Mohamed email domain (cpa.com) unverified for Frontpoint — verify before sending. Gregory Fontaine/Scotiniadis name mismatch on SUBPAC email — verify before sending. Also still overdue: T4 for Durana Elmi (Cymbiotika, durana@cymbiotika.com) and Charlie Chanaratsopon (Boosted Commerce, charlie@boostedcommerce.com) — both T3 on 2026-07-24, carried to next run. Summary draft ID: r-2860525834557645992.
+
+## 2026-08-08 — Daily Run
+Leads drafted: 0
+Inbox replies found: N/A — Gmail MCP requires re-authorization (see note)
+Total drafted: 0
+
+ACTION REQUIRED — Gmail MCP authentication expired. The routine could not create Gmail drafts or scan the inbox. Re-authorize the Gmail MCP connector in an interactive Claude session (claude.ai connector settings) before the next run.
+
+Leads due today (drafts NOT created — create manually):
+
+1. Durana Elmi | Cymbiotika | durana@cymbiotika.com | Touch 4 | Breakup (1-2-3)
+Subject: closing the loop
+Body:
+Since I haven't heard back, I'll keep it simple. Reply with a number:
+1 — Interested, let's talk
+2 — Not now, check back later
+3 — Not a fit, please stop
+Anant
+
+2. Charlie Chanaratsopon | Boosted Commerce | charlie@boostedcommerce.com | Touch 4 | Breakup (1-2-3)
+Subject: closing the loop
+Body:
+Since I haven't heard back, I'll keep it simple. Reply with a number:
+1 — Interested, let's talk
+2 — Not now, check back later
+3 — Not a fit, please stop
+Anant
+
+ALSO DUE TOMORROW (2026-08-09) — T5 final breakup for 10 leads (subject: "last note", one-liner):
+Sean Smith | Zoe | sean@zoebaby.com
+Bryony Rammell | AYBL | b.hollier@beaybl.com
+Vicky Yang | MOFT | vicky@moft.us
+Ahmet Yanik | Mavigadget | ahmet@mavigadget.com
+Francesca Pezzutto | Baby Village | francesca@babyvillage.com.au
+Rich Miller | Digitek | rmiller@digitekshop.com
+Mike Battat | iStore | mike@istore.ca
+Samantha Freres | Wishing Well | samantha@wishingwellwashing.com
+Alun Hindle | Medichecks | alun.hindle@medichecks.com
+Charlie Hill | Harbor | charlie@harbor.co
